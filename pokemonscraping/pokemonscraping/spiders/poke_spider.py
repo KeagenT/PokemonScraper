@@ -9,17 +9,19 @@ class PokeSpider(Spider):
     allowed_domains = ["serebii.net"]
     start_urls = ["https://serebii.net/pokedex-swsh/grookey/"]
 
-    def weightParse(weightSelector):
-        extractedLbs = weightSelector.extract()[0]
-        if "/" in extractedLbs:
-            extractedLbs = extractedLbs.split("/")[0].strip().replace("lbs", "")
-            return extractedLbs
-        else:
-            extractedLbs = extractedLbs.strip().replace("lbs", "")
-            return extractedLbs
-
 
     def parse(self, response):
+
+        def weightParse(weightSelector):
+            extractedLbs = weightSelector.extract()[0]
+            if "/" in extractedLbs:
+                extractedLbs = extractedLbs.split("/")[0].strip().replace("lbs", "")
+                return extractedLbs
+            else:
+                extractedLbs = extractedLbs.strip().replace("lbs", "")
+                return extractedLbs
+
+        
         DexTables = Selector(response).xpath('//table[@class="dextable"]')
         AllMoves = Selector(response).xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href,"attackdex")]//text()').extract()
         AbilitiesList = response.xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href, "abilitydex")]//text()').extract()
@@ -40,3 +42,4 @@ class PokeSpider(Spider):
         followLink = response.xpath('//table[contains(@width,"100%")]//td[contains(@align,"center")]//a[contains(@href,"pokedex")]')[1].css('a::attr(href)').get()
         if followLink is not None:
             yield response.follow(followLink, callback=self.parse)
+
