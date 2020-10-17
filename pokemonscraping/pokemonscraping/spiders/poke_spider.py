@@ -90,7 +90,7 @@ class PokeSpider(Spider):
         AbilitiesList = response.xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href, "abilitydex")]//text()').extract()
         item = PokemonscrapingItem()
         item['name'] = response.xpath('//table[@class="dextable"][2]//td[@class="fooinfo"]/text()').extract()[0]
-        item['number'] = response.xpath('//table[@class="dextable"]//td[@class="fooinfo"]//td/text()').extract()[9]
+        item['number'] = response.xpath('//tr[td[*[contains(text(), "National")]]]//td/text()').extract()[1].replace("#","")
         item['weight'] = weightParse(response.xpath('//table[@class="dextable"]//td[contains(text(), "lbs")]/text()'))
         item['types'] = typesDict
         item['locations_sword'] = swordLocations
