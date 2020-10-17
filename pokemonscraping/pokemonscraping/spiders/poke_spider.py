@@ -50,7 +50,7 @@ class PokeSpider(Spider):
             formsList = getAlternateFormsList()
             #if the alternate forms list is empty
             if not formsList:
-                NormalFormTypes = response.xpath('//table[@class="dextable"]//td[1][@class="cen"]//a//img[contains(@alt, "type")]/@alt').extract()
+                NormalFormTypes = response.xpath('//table[@class="dextable"]//td[@class="cen"]')[0].xpath('.//a//img[contains(@alt, "type")]/@alt').extract()
                 CleanTypes = getCleanTypes(NormalFormTypes)
                 typesDict['Normal'] = CleanTypes
                 return typesDict
