@@ -64,11 +64,26 @@ class PokeSpider(Spider):
                         alternateForm = "Galarian "+ alternateForm
                         typesDict[alternateForm] = getTypesFromXpath(currentFormXpath, 1)
                 return typesDict
-                    
+        
+        #swSh should be either foox for sword locations or fooy for shield locations
+        def getLocations(swSh):
+            locations = []
+            SwordShieldXpath = response.xpath('//table[@class="dextable"]//tr[td[@class="fooevo"][h2[contains(text(),"Location")]]]/following-sibling::tr[td[@class="{}"]][1]//td[@class = "fooinfo"]'.format(swSh))
+            linkedLocations = SwordShieldXpath.xpath('.//a/text()').extract()
+            unlinkedLocations = SwordShieldXpath.xpath('./text()').extract()
+            #If there's no links inside the xpath
+            if not linkedLocations:   
+                   locations = locations + unlinkedLocations
+                   return locations
+            else:
+                locations = locations + linkedLocations
+                locations = list(set(locations))
+                return locations
 
 
 
-
+        swordLocations = getLocations("foox")
+        shieldLocations = getLocations("fooy")
         typesDict = buildTypesDict()
         DexTables = Selector(response).xpath('//table[@class="dextable"]')
         AllMoves = Selector(response).xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href,"attackdex")]//text()').extract()
@@ -78,6 +93,8 @@ class PokeSpider(Spider):
         item['number'] = response.xpath('//table[@class="dextable"]//td[@class="fooinfo"]//td/text()').extract()[9]
         item['weight'] = weightParse(response.xpath('//table[@class="dextable"]//td[contains(text(), "lbs")]/text()'))
         item['types'] = typesDict
+        item['locations_sword'] = swordLocations
+        item['locations_shield'] = shieldLocations
         item['abilities'] = []
         item['moves'] = []
         for move in AllMoves:
