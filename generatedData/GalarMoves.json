@@ -1,0 +1,7453 @@
+{
+    "Acid": {
+        "move": "Acid",
+        "pokemon": [
+            "Toxel",
+            "Toxtricity"
+        ]
+    },
+    "Acid Armor": {
+        "move": "Acid Armor",
+        "pokemon": [
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Acid Spray": {
+        "move": "Acid Spray",
+        "pokemon": [
+            "Flapple",
+            "Toxtricity"
+        ]
+    },
+    "Acrobatics": {
+        "move": "Acrobatics",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Inteleon",
+            "Thievul",
+            "Flapple",
+            "Frosmoth",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Acupressure": {
+        "move": "Acupressure",
+        "pokemon": [
+            "Arrokuda",
+            "Barraskewda",
+            "Pincurchin"
+        ]
+    },
+    "Aerial Ace": {
+        "move": "Aerial Ace",
+        "pokemon": [
+            "Cramorant",
+            "Dracozolt",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "After You": {
+        "move": "After You",
+        "pokemon": [
+            "Orbeetle",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Indeedee"
+        ]
+    },
+    "Agility": {
+        "move": "Agility",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Wooloo",
+            "Dubwool",
+            "Boltund",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Falinks",
+            "Eiscue",
+            "Morpeko",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus"
+        ]
+    },
+    "Air Slash": {
+        "move": "Air Slash",
+        "pokemon": [
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Flapple",
+            "Cramorant",
+            "Frosmoth",
+            "Zacian"
+        ]
+    },
+    "Ally Switch": {
+        "move": "Ally Switch",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Dottler",
+            "Orbeetle",
+            "Sinistea",
+            "Polteageist",
+            "Mr. Rime",
+            "Runerigus",
+            "Indeedee",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Amnesia": {
+        "move": "Amnesia",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Appletun",
+            "Cramorant",
+            "Perrserker",
+            "Cursola",
+            "Runerigus",
+            "Eiscue"
+        ]
+    },
+    "Ancient Power": {
+        "move": "Ancient Power",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Cursola",
+            "Stonjourner",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish"
+        ]
+    },
+    "Apple Acid": {
+        "move": "Apple Acid",
+        "pokemon": [
+            "Appletun"
+        ]
+    },
+    "Aqua Jet": {
+        "move": "Aqua Jet",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Arrokuda",
+            "Barraskewda",
+            "Urshifu"
+        ]
+    },
+    "Aqua Ring": {
+        "move": "Aqua Ring",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Cramorant",
+            "Eiscue"
+        ]
+    },
+    "Aromatherapy": {
+        "move": "Aromatherapy",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Milcery",
+            "Alcremie",
+            "Indeedee"
+        ]
+    },
+    "Aromatic Mist": {
+        "move": "Aromatic Mist",
+        "pokemon": [
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Assurance": {
+        "move": "Assurance",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Falinks",
+            "Pincurchin",
+            "Stonjourner",
+            "Morpeko",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Eternatus",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Astonish": {
+        "move": "Astonish",
+        "pokemon": [
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Sinistea",
+            "Polteageist",
+            "Cursola",
+            "Runerigus",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Attract": {
+        "move": "Attract",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Aura Sphere": {
+        "move": "Aura Sphere",
+        "pokemon": [
+            "Urshifu"
+        ]
+    },
+    "Aura Wheel": {
+        "move": "Aura Wheel",
+        "pokemon": [
+            "Morpeko"
+        ]
+    },
+    "Aurora Beam": {
+        "move": "Aurora Beam",
+        "pokemon": [
+            "Frosmoth"
+        ]
+    },
+    "Aurora Veil": {
+        "move": "Aurora Veil",
+        "pokemon": [
+            "Frosmoth",
+            "Eiscue",
+            "Arctovish"
+        ]
+    },
+    "Avalanche": {
+        "move": "Avalanche",
+        "pokemon": [
+            "Mr. Rime",
+            "Frosmoth",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Baby-Doll Eyes": {
+        "move": "Baby-Doll Eyes",
+        "pokemon": [
+            "Obstagoon",
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Baton Pass": {
+        "move": "Baton Pass",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Dubwool",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Perrserker",
+            "Mr. Rime",
+            "Indeedee",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Beat Up": {
+        "move": "Beat Up",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Falinks",
+            "Drakloak",
+            "Dragapult",
+            "Urshifu"
+        ]
+    },
+    "Behemoth Bash": {
+        "move": "Behemoth Bash",
+        "pokemon": [
+            "Zamazenta"
+        ]
+    },
+    "Behemoth Blade": {
+        "move": "Behemoth Blade",
+        "pokemon": [
+            "Zacian"
+        ]
+    },
+    "Belch": {
+        "move": "Belch",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Toxel",
+            "Toxtricity",
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Belly Drum": {
+        "move": "Belly Drum",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Eiscue"
+        ]
+    },
+    "Bind": {
+        "move": "Bind",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Clobbopus",
+            "Grapploct",
+            "Zarude"
+        ]
+    },
+    "Bite": {
+        "move": "Bite",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Arrokuda",
+            "Barraskewda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Morpeko",
+            "Dracovish",
+            "Arctovish",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Zarude"
+        ]
+    },
+    "Blast Burn": {
+        "move": "Blast Burn",
+        "pokemon": [
+            "Cinderace"
+        ]
+    },
+    "Blaze Kick": {
+        "move": "Blaze Kick",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace"
+        ]
+    },
+    "Blizzard": {
+        "move": "Blizzard",
+        "pokemon": [
+            "Inteleon",
+            "Drednaw",
+            "Cramorant",
+            "Obstagoon",
+            "Cursola",
+            "Mr. Rime",
+            "Frosmoth",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Block": {
+        "move": "Block",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Mr. Rime",
+            "Stonjourner"
+        ]
+    },
+    "Body Press": {
+        "move": "Body Press",
+        "pokemon": [
+            "Rillaboom",
+            "Greedent",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Dubwool",
+            "Drednaw",
+            "Carkol",
+            "Coalossal",
+            "Appletun",
+            "Sandaconda",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Runerigus",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Duraludon",
+            "Urshifu"
+        ]
+    },
+    "Body Slam": {
+        "move": "Body Slam",
+        "pokemon": [
+            "Rillaboom",
+            "Skwovet",
+            "Greedent",
+            "Corviknight",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Coalossal",
+            "Appletun",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Bolt Beak": {
+        "move": "Bolt Beak",
+        "pokemon": [
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Boomburst": {
+        "move": "Boomburst",
+        "pokemon": [
+            "Rillaboom",
+            "Toxtricity"
+        ]
+    },
+    "Bounce": {
+        "move": "Bounce",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Dubwool",
+            "Arrokuda",
+            "Barraskewda"
+        ]
+    },
+    "Branch Poke": {
+        "move": "Branch Poke",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom"
+        ]
+    },
+    "Brave Bird": {
+        "move": "Brave Bird",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Cramorant",
+            "Sirfetch'd"
+        ]
+    },
+    "Breaking Swipe": {
+        "move": "Breaking Swipe",
+        "pokemon": [
+            "Inteleon",
+            "Dracozolt",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Brick Break": {
+        "move": "Brick Break",
+        "pokemon": [
+            "Rillaboom",
+            "Arrokuda",
+            "Barraskewda",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Falinks",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Duraludon",
+            "Zacian",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Brine": {
+        "move": "Brine",
+        "pokemon": [
+            "Clobbopus",
+            "Grapploct",
+            "Cursola",
+            "Pincurchin",
+            "Eiscue",
+            "Dracovish",
+            "Arctovish",
+            "Drakloak",
+            "Dragapult",
+            "Urshifu"
+        ]
+    },
+    "Brutal Swing": {
+        "move": "Brutal Swing",
+        "pokemon": [
+            "Rillaboom",
+            "Skwovet",
+            "Greedent",
+            "Silicobra",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Grapploct",
+            "Hattrem",
+            "Hatterene",
+            "Sirfetch'd",
+            "Runerigus",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Dracovish",
+            "Zacian",
+            "Eternatus",
+            "Zarude"
+        ]
+    },
+    "Bubble Beam": {
+        "move": "Bubble Beam",
+        "pokemon": [
+            "Pincurchin"
+        ]
+    },
+    "Bug Bite": {
+        "move": "Bug Bite",
+        "pokemon": [
+            "Sizzlipede",
+            "Centiskorch",
+            "Snom",
+            "Frosmoth"
+        ]
+    },
+    "Bug Buzz": {
+        "move": "Bug Buzz",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Sizzlipede",
+            "Centiskorch",
+            "Snom",
+            "Frosmoth"
+        ]
+    },
+    "Bulk Up": {
+        "move": "Bulk Up",
+        "pokemon": [
+            "Rillaboom",
+            "Raboot",
+            "Cinderace",
+            "Corviknight",
+            "Boltund",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Falinks",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Bulldoze": {
+        "move": "Bulldoze",
+        "pokemon": [
+            "Rillaboom",
+            "Drednaw",
+            "Coalossal",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish"
+        ]
+    },
+    "Bullet Seed": {
+        "move": "Bullet Seed",
+        "pokemon": [
+            "Rillaboom",
+            "Skwovet",
+            "Greedent",
+            "Gossifleur",
+            "Eldegoss",
+            "Flapple",
+            "Appletun",
+            "Morpeko",
+            "Zarude"
+        ]
+    },
+    "Burn Up": {
+        "move": "Burn Up",
+        "pokemon": [
+            "Carkol",
+            "Coalossal",
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Burning Jealousy": {
+        "move": "Burning Jealousy",
+        "pokemon": [
+            "Thievul",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Cursola"
+        ]
+    },
+    "Calm Mind": {
+        "move": "Calm Mind",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Frosmoth",
+            "Indeedee"
+        ]
+    },
+    "Charge": {
+        "move": "Charge",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Pincurchin",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Charm": {
+        "move": "Charm",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss",
+            "Yamper",
+            "Boltund",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Circle Throw": {
+        "move": "Circle Throw",
+        "pokemon": [
+            "Clobbopus",
+            "Grapploct"
+        ]
+    },
+    "Close Combat": {
+        "move": "Close Combat",
+        "pokemon": [
+            "Arrokuda",
+            "Barraskewda",
+            "Clobbopus",
+            "Grapploct",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Falinks",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Coaching": {
+        "move": "Coaching",
+        "pokemon": [
+            "Cinderace",
+            "Clobbopus",
+            "Grapploct",
+            "Sirfetch'd",
+            "Falinks",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Coil": {
+        "move": "Coil",
+        "pokemon": [
+            "Silicobra",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Confide": {
+        "move": "Confide",
+        "pokemon": [
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl"
+        ]
+    },
+    "Confuse Ray": {
+        "move": "Confuse Ray",
+        "pokemon": [
+            "Orbeetle",
+            "Cursola",
+            "Mr. Rime",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Eternatus"
+        ]
+    },
+    "Confusion": {
+        "move": "Confusion",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime"
+        ]
+    },
+    "Copycat": {
+        "move": "Copycat",
+        "pokemon": [
+            "Wooloo",
+            "Dubwool",
+            "Mr. Rime"
+        ]
+    },
+    "Cosmic Power": {
+        "move": "Cosmic Power",
+        "pokemon": [
+            "Eternatus"
+        ]
+    },
+    "Cotton Guard": {
+        "move": "Cotton Guard",
+        "pokemon": [
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool"
+        ]
+    },
+    "Cotton Spore": {
+        "move": "Cotton Spore",
+        "pokemon": [
+            "Eldegoss"
+        ]
+    },
+    "Counter": {
+        "move": "Counter",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Skwovet",
+            "Greedent",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Obstagoon",
+            "Sirfetch'd",
+            "Falinks",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Court Change": {
+        "move": "Court Change",
+        "pokemon": [
+            "Cinderace"
+        ]
+    },
+    "Covet": {
+        "move": "Covet",
+        "pokemon": [
+            "Greedent",
+            "Perrserker",
+            "Sirfetch'd"
+        ]
+    },
+    "Crafty Shield": {
+        "move": "Crafty Shield",
+        "pokemon": [
+            "Runerigus"
+        ]
+    },
+    "Cross Chop": {
+        "move": "Cross Chop",
+        "pokemon": [
+            "Obstagoon"
+        ]
+    },
+    "Cross Poison": {
+        "move": "Cross Poison",
+        "pokemon": [
+            "Obstagoon",
+            "Eternatus"
+        ]
+    },
+    "Crunch": {
+        "move": "Crunch",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Thievul",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Arrokuda",
+            "Barraskewda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Grimmsnarl",
+            "Perrserker",
+            "Morpeko",
+            "Dracovish",
+            "Arctovish",
+            "Zacian",
+            "Zamazenta",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Curse": {
+        "move": "Curse",
+        "pokemon": [
+            "Appletun",
+            "Polteageist",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Runerigus",
+            "Pincurchin",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Dark Pulse": {
+        "move": "Dark Pulse",
+        "pokemon": [
+            "Inteleon",
+            "Thievul",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Runerigus",
+            "Morpeko",
+            "Duraludon",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Darkest Lariat": {
+        "move": "Darkest Lariat",
+        "pokemon": [
+            "Rillaboom",
+            "Grimmsnarl",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Dazzling Gleam": {
+        "move": "Dazzling Gleam",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Milcery",
+            "Alcremie",
+            "Frosmoth",
+            "Indeedee",
+            "Zamazenta"
+        ]
+    },
+    "Decorate": {
+        "move": "Decorate",
+        "pokemon": [
+            "Alcremie"
+        ]
+    },
+    "Defense Curl": {
+        "move": "Defense Curl",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Wooloo",
+            "Dubwool",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Sizzlipede",
+            "Centiskorch",
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Defog": {
+        "move": "Defog",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Cramorant",
+            "Sirfetch'd",
+            "Frosmoth"
+        ]
+    },
+    "Destiny Bond": {
+        "move": "Destiny Bond",
+        "pokemon": [
+            "Cursola",
+            "Runerigus"
+        ]
+    },
+    "Detect": {
+        "move": "Detect",
+        "pokemon": [
+            "Clobbopus",
+            "Grapploct",
+            "Sirfetch'd",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Dig": {
+        "move": "Dig",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Nickit",
+            "Thievul",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Silicobra",
+            "Sandaconda",
+            "Grapploct",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Cufant",
+            "Copperajah",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Disable": {
+        "move": "Disable",
+        "pokemon": [
+            "Cursola",
+            "Runerigus",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Disarming Voice": {
+        "move": "Disarming Voice",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Indeedee"
+        ]
+    },
+    "Discharge": {
+        "move": "Discharge",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Pincurchin",
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Dive": {
+        "move": "Dive",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Clobbopus",
+            "Grapploct",
+            "Eiscue",
+            "Dracovish",
+            "Arctovish",
+            "Drakloak",
+            "Dragapult",
+            "Urshifu"
+        ]
+    },
+    "Double Hit": {
+        "move": "Double Hit",
+        "pokemon": [
+            "Thwackey",
+            "Rillaboom",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Double Kick": {
+        "move": "Double Kick",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Wooloo",
+            "Dubwool",
+            "Mr. Rime"
+        ]
+    },
+    "Double Team": {
+        "move": "Double Team",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Double-Edge": {
+        "move": "Double-Edge",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Wooloo",
+            "Dubwool",
+            "Yamper",
+            "Boltund",
+            "Arrokuda",
+            "Barraskewda",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Draco Meteor": {
+        "move": "Draco Meteor",
+        "pokemon": [
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Dracozolt",
+            "Dracovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Dragon Breath": {
+        "move": "Dragon Breath",
+        "pokemon": [
+            "Flapple",
+            "Dracovish",
+            "Dragapult"
+        ]
+    },
+    "Dragon Claw": {
+        "move": "Dragon Claw",
+        "pokemon": [
+            "Dracozolt",
+            "Duraludon",
+            "Dragapult"
+        ]
+    },
+    "Dragon Dance": {
+        "move": "Dragon Dance",
+        "pokemon": [
+            "Flapple",
+            "Drakloak",
+            "Dragapult",
+            "Eternatus"
+        ]
+    },
+    "Dragon Darts": {
+        "move": "Dragon Darts",
+        "pokemon": [
+            "Dragapult"
+        ]
+    },
+    "Dragon Pulse": {
+        "move": "Dragon Pulse",
+        "pokemon": [
+            "Flapple",
+            "Appletun",
+            "Runerigus",
+            "Dracozolt",
+            "Dracovish",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult",
+            "Eternatus"
+        ]
+    },
+    "Dragon Rush": {
+        "move": "Dragon Rush",
+        "pokemon": [
+            "Flapple",
+            "Silicobra",
+            "Sandaconda",
+            "Dracozolt",
+            "Dracovish",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Dragon Tail": {
+        "move": "Dragon Tail",
+        "pokemon": [
+            "Chewtle",
+            "Drednaw",
+            "Dracozolt",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Eternatus"
+        ]
+    },
+    "Drain Punch": {
+        "move": "Drain Punch",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Toxtricity",
+            "Grapploct",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Alcremie",
+            "Indeedee",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Draining Kiss": {
+        "move": "Draining Kiss",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Milcery",
+            "Alcremie",
+            "Indeedee"
+        ]
+    },
+    "Drill Peck": {
+        "move": "Drill Peck",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Cramorant"
+        ]
+    },
+    "Drill Run": {
+        "move": "Drill Run",
+        "pokemon": [
+            "Silicobra",
+            "Sandaconda",
+            "Arrokuda",
+            "Barraskewda"
+        ]
+    },
+    "Drum Beating": {
+        "move": "Drum Beating",
+        "pokemon": [
+            "Rillaboom"
+        ]
+    },
+    "Dual Wingbeat": {
+        "move": "Dual Wingbeat",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Flapple",
+            "Cramorant",
+            "Sirfetch'd",
+            "Frosmoth"
+        ]
+    },
+    "Dynamax Cannon": {
+        "move": "Dynamax Cannon",
+        "pokemon": [
+            "Eternatus"
+        ]
+    },
+    "Dynamic Punch": {
+        "move": "Dynamic Punch",
+        "pokemon": [
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Earth Power": {
+        "move": "Earth Power",
+        "pokemon": [
+            "Rillaboom",
+            "Drednaw",
+            "Coalossal",
+            "Silicobra",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Dracovish"
+        ]
+    },
+    "Earthquake": {
+        "move": "Earthquake",
+        "pokemon": [
+            "Rillaboom",
+            "Greedent",
+            "Drednaw",
+            "Coalossal",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Stonjourner",
+            "Copperajah",
+            "Dracozolt",
+            "Dracovish"
+        ]
+    },
+    "Echoed Voice": {
+        "move": "Echoed Voice",
+        "pokemon": [
+            "Arctozolt"
+        ]
+    },
+    "Eerie Impulse": {
+        "move": "Eerie Impulse",
+        "pokemon": [
+            "Boltund",
+            "Toxtricity"
+        ]
+    },
+    "Electric Terrain": {
+        "move": "Electric Terrain",
+        "pokemon": [
+            "Boltund",
+            "Pincurchin",
+            "Morpeko"
+        ]
+    },
+    "Electrify": {
+        "move": "Electrify",
+        "pokemon": [
+            "Boltund"
+        ]
+    },
+    "Electro Ball": {
+        "move": "Electro Ball",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Wooloo",
+            "Dubwool",
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Electroweb": {
+        "move": "Electroweb",
+        "pokemon": [
+            "Morpeko"
+        ]
+    },
+    "Ember": {
+        "move": "Ember",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Encore": {
+        "move": "Encore",
+        "pokemon": [
+            "Toxel",
+            "Toxtricity",
+            "Mr. Rime",
+            "Alcremie",
+            "Indeedee",
+            "Zarude"
+        ]
+    },
+    "Endeavor": {
+        "move": "Endeavor",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Toxel",
+            "Toxtricity"
+        ]
+    },
+    "Endure": {
+        "move": "Endure",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Energy Ball": {
+        "move": "Energy Ball",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Dottler",
+            "Orbeetle",
+            "Gossifleur",
+            "Eldegoss",
+            "Flapple",
+            "Appletun",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Indeedee",
+            "Zarude"
+        ]
+    },
+    "Entrainment": {
+        "move": "Entrainment",
+        "pokemon": [
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Eternabeam": {
+        "move": "Eternabeam",
+        "pokemon": [
+            "Eternatus"
+        ]
+    },
+    "Expanding Force": {
+        "move": "Expanding Force",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Indeedee"
+        ]
+    },
+    "Explosion": {
+        "move": "Explosion",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal"
+        ]
+    },
+    "Extrasensory": {
+        "move": "Extrasensory",
+        "pokemon": [
+            "Indeedee"
+        ]
+    },
+    "Facade": {
+        "move": "Facade",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Fairy Wind": {
+        "move": "Fairy Wind",
+        "pokemon": [
+            "Snom",
+            "Frosmoth"
+        ]
+    },
+    "Fake Out": {
+        "move": "Fake Out",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Mr. Rime",
+            "Indeedee",
+            "Morpeko"
+        ]
+    },
+    "Fake Tears": {
+        "move": "Fake Tears",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Morpeko"
+        ]
+    },
+    "False Surrender": {
+        "move": "False Surrender",
+        "pokemon": [
+            "Morgrem",
+            "Grimmsnarl"
+        ]
+    },
+    "False Swipe": {
+        "move": "False Swipe",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Drednaw",
+            "Falinks",
+            "Zacian",
+            "Urshifu"
+        ]
+    },
+    "Feather Dance": {
+        "move": "Feather Dance",
+        "pokemon": [
+            "Cramorant",
+            "Frosmoth"
+        ]
+    },
+    "Feint": {
+        "move": "Feint",
+        "pokemon": [
+            "Cinderace",
+            "Clobbopus",
+            "Grapploct",
+            "Sirfetch'd"
+        ]
+    },
+    "Fell Stinger": {
+        "move": "Fell Stinger",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon"
+        ]
+    },
+    "Final Gambit": {
+        "move": "Final Gambit",
+        "pokemon": [
+            "Sirfetch'd"
+        ]
+    },
+    "Fire Blast": {
+        "move": "Fire Blast",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Carkol",
+            "Coalossal",
+            "Centiskorch",
+            "Dracozolt",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Fire Fang": {
+        "move": "Fire Fang",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Greedent",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Sandaconda",
+            "Centiskorch",
+            "Morpeko",
+            "Dracozolt",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Fire Lash": {
+        "move": "Fire Lash",
+        "pokemon": [
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Fire Pledge": {
+        "move": "Fire Pledge",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace"
+        ]
+    },
+    "Fire Punch": {
+        "move": "Fire Punch",
+        "pokemon": [
+            "Cinderace",
+            "Coalossal",
+            "Toxtricity",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Fire Spin": {
+        "move": "Fire Spin",
+        "pokemon": [
+            "Cinderace",
+            "Carkol",
+            "Coalossal",
+            "Sizzlipede",
+            "Centiskorch",
+            "Dracozolt"
+        ]
+    },
+    "First Impression": {
+        "move": "First Impression",
+        "pokemon": [
+            "Sirfetch'd",
+            "Falinks"
+        ]
+    },
+    "Fishious Rend": {
+        "move": "Fishious Rend",
+        "pokemon": [
+            "Dracovish",
+            "Arctovish"
+        ]
+    },
+    "Fissure": {
+        "move": "Fissure",
+        "pokemon": [
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Flail": {
+        "move": "Flail",
+        "pokemon": [
+            "Toxel",
+            "Toxtricity",
+            "Perrserker",
+            "Sirfetch'd"
+        ]
+    },
+    "Flame Charge": {
+        "move": "Flame Charge",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Yamper",
+            "Boltund",
+            "Carkol",
+            "Coalossal"
+        ]
+    },
+    "Flame Wheel": {
+        "move": "Flame Wheel",
+        "pokemon": [
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Flamethrower": {
+        "move": "Flamethrower",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Carkol",
+            "Coalossal",
+            "Centiskorch",
+            "Dracozolt",
+            "Drakloak",
+            "Dragapult",
+            "Eternatus"
+        ]
+    },
+    "Flare Blitz": {
+        "move": "Flare Blitz",
+        "pokemon": [
+            "Raboot",
+            "Cinderace",
+            "Carkol",
+            "Coalossal",
+            "Centiskorch"
+        ]
+    },
+    "Flash Cannon": {
+        "move": "Flash Cannon",
+        "pokemon": [
+            "Corviknight",
+            "Copperajah",
+            "Duraludon",
+            "Zamazenta",
+            "Eternatus"
+        ]
+    },
+    "Flatter": {
+        "move": "Flatter",
+        "pokemon": [
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Morpeko"
+        ]
+    },
+    "Fling": {
+        "move": "Fling",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Toxtricity",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Milcery",
+            "Alcremie",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Flip Turn": {
+        "move": "Flip Turn",
+        "pokemon": [
+            "Barraskewda"
+        ]
+    },
+    "Fly": {
+        "move": "Fly",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Flapple",
+            "Cramorant",
+            "Dragapult",
+            "Eternatus"
+        ]
+    },
+    "Focus Blast": {
+        "move": "Focus Blast",
+        "pokemon": [
+            "Rillaboom",
+            "Cinderace",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Falinks",
+            "Zacian",
+            "Zamazenta",
+            "Urshifu"
+        ]
+    },
+    "Focus Energy": {
+        "move": "Focus Energy",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Boltund",
+            "Flapple",
+            "Arrokuda",
+            "Barraskewda",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Sirfetch'd",
+            "Falinks",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Focus Punch": {
+        "move": "Focus Punch",
+        "pokemon": [
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Follow Me": {
+        "move": "Follow Me",
+        "pokemon": [
+            "Indeedee"
+        ]
+    },
+    "Foul Play": {
+        "move": "Foul Play",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Sinistea",
+            "Polteageist",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Mr. Rime",
+            "Morpeko",
+            "Duraludon",
+            "Urshifu"
+        ]
+    },
+    "Freeze-Dry": {
+        "move": "Freeze-Dry",
+        "pokemon": [
+            "Mr. Rime",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Frenzy Plant": {
+        "move": "Frenzy Plant",
+        "pokemon": [
+            "Rillaboom"
+        ]
+    },
+    "Fury Attack": {
+        "move": "Fury Attack",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Pincurchin"
+        ]
+    },
+    "Fury Cutter": {
+        "move": "Fury Cutter",
+        "pokemon": [
+            "Sirfetch'd"
+        ]
+    },
+    "Fury Swipes": {
+        "move": "Fury Swipes",
+        "pokemon": [
+            "Obstagoon",
+            "Perrserker",
+            "Zarude"
+        ]
+    },
+    "Future Sight": {
+        "move": "Future Sight",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatterene",
+            "Mr. Rime",
+            "Indeedee"
+        ]
+    },
+    "G-Max Centiferno": {
+        "move": "G-Max Centiferno",
+        "pokemon": [
+            "Centiskorch"
+        ]
+    },
+    "G-Max Depletion": {
+        "move": "G-Max Depletion",
+        "pokemon": [
+            "Duraludon"
+        ]
+    },
+    "G-Max Drum Solo": {
+        "move": "G-Max Drum Solo",
+        "pokemon": [
+            "Rillaboom"
+        ]
+    },
+    "G-Max Finale": {
+        "move": "G-Max Finale",
+        "pokemon": [
+            "Alcremie"
+        ]
+    },
+    "G-Max Fireball": {
+        "move": "G-Max Fireball",
+        "pokemon": [
+            "Cinderace"
+        ]
+    },
+    "G-Max Gravitas": {
+        "move": "G-Max Gravitas",
+        "pokemon": [
+            "Orbeetle"
+        ]
+    },
+    "G-Max Hydrosnipe": {
+        "move": "G-Max Hydrosnipe",
+        "pokemon": [
+            "Inteleon"
+        ]
+    },
+    "G-Max One Blow": {
+        "move": "G-Max One Blow",
+        "pokemon": [
+            "Urshifu"
+        ]
+    },
+    "G-Max Rapid Flow": {
+        "move": "G-Max Rapid Flow",
+        "pokemon": [
+            "Urshifu"
+        ]
+    },
+    "G-Max Sandblast": {
+        "move": "G-Max Sandblast",
+        "pokemon": [
+            "Sandaconda"
+        ]
+    },
+    "G-Max Smite": {
+        "move": "G-Max Smite",
+        "pokemon": [
+            "Hatterene"
+        ]
+    },
+    "G-Max Snooze": {
+        "move": "G-Max Snooze",
+        "pokemon": [
+            "Grimmsnarl"
+        ]
+    },
+    "G-Max Steelsurge": {
+        "move": "G-Max Steelsurge",
+        "pokemon": [
+            "Copperajah"
+        ]
+    },
+    "G-Max Stonesurge": {
+        "move": "G-Max Stonesurge",
+        "pokemon": [
+            "Drednaw"
+        ]
+    },
+    "G-Max Stun Shock": {
+        "move": "G-Max Stun Shock",
+        "pokemon": [
+            "Toxtricity"
+        ]
+    },
+    "G-Max Sweetness": {
+        "move": "G-Max Sweetness",
+        "pokemon": [
+            "Appletun"
+        ]
+    },
+    "G-Max Tartness": {
+        "move": "G-Max Tartness",
+        "pokemon": [
+            "Flapple"
+        ]
+    },
+    "G-Max Volcalith": {
+        "move": "G-Max Volcalith",
+        "pokemon": [
+            "Coalossal"
+        ]
+    },
+    "G-Max Wind Rage": {
+        "move": "G-Max Wind Rage",
+        "pokemon": [
+            "Corviknight"
+        ]
+    },
+    "Gastro Acid": {
+        "move": "Gastro Acid",
+        "pokemon": [
+            "Chewtle",
+            "Drednaw"
+        ]
+    },
+    "Giga Drain": {
+        "move": "Giga Drain",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Orbeetle",
+            "Gossifleur",
+            "Eldegoss",
+            "Flapple",
+            "Appletun",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Cursola",
+            "Alcremie",
+            "Frosmoth",
+            "Zarude"
+        ]
+    },
+    "Giga Impact": {
+        "move": "Giga Impact",
+        "pokemon": [
+            "Rillaboom",
+            "Cinderace",
+            "Inteleon",
+            "Greedent",
+            "Corviknight",
+            "Orbeetle",
+            "Thievul",
+            "Eldegoss",
+            "Dubwool",
+            "Drednaw",
+            "Boltund",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Toxtricity",
+            "Centiskorch",
+            "Grapploct",
+            "Polteageist",
+            "Hatterene",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Falinks",
+            "Frosmoth",
+            "Stonjourner",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Glare": {
+        "move": "Glare",
+        "pokemon": [
+            "Silicobra",
+            "Sandaconda"
+        ]
+    },
+    "Grass Knot": {
+        "move": "Grass Knot",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Flapple",
+            "Appletun",
+            "Obstagoon",
+            "Mr. Rime",
+            "Runerigus",
+            "Zarude"
+        ]
+    },
+    "Grass Pledge": {
+        "move": "Grass Pledge",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom"
+        ]
+    },
+    "Grassy Glide": {
+        "move": "Grassy Glide",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Sirfetch'd",
+            "Zarude"
+        ]
+    },
+    "Grassy Terrain": {
+        "move": "Grassy Terrain",
+        "pokemon": [
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss",
+            "Zarude"
+        ]
+    },
+    "Grav Apple": {
+        "move": "Grav Apple",
+        "pokemon": [
+            "Flapple"
+        ]
+    },
+    "Gravity": {
+        "move": "Gravity",
+        "pokemon": [
+            "Stonjourner"
+        ]
+    },
+    "Growl": {
+        "move": "Growl",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Wooloo",
+            "Dubwool",
+            "Toxel",
+            "Toxtricity",
+            "Perrserker",
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Growth": {
+        "move": "Growth",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss",
+            "Flapple",
+            "Appletun",
+            "Zarude"
+        ]
+    },
+    "Grudge": {
+        "move": "Grudge",
+        "pokemon": [
+            "Cursola",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Guard Split": {
+        "move": "Guard Split",
+        "pokemon": [
+            "Wooloo",
+            "Dubwool",
+            "Runerigus",
+            "Indeedee"
+        ]
+    },
+    "Guard Swap": {
+        "move": "Guard Swap",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Wooloo",
+            "Dubwool",
+            "Hatterene",
+            "Mr. Rime",
+            "Runerigus",
+            "Indeedee",
+            "Zamazenta"
+        ]
+    },
+    "Gunk Shot": {
+        "move": "Gunk Shot",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Toxtricity",
+            "Obstagoon",
+            "Perrserker"
+        ]
+    },
+    "Gyro Ball": {
+        "move": "Gyro Ball",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Appletun",
+            "Perrserker",
+            "Duraludon"
+        ]
+    },
+    "Hail": {
+        "move": "Hail",
+        "pokemon": [
+            "Cursola",
+            "Mr. Rime",
+            "Frosmoth",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Hammer Arm": {
+        "move": "Hammer Arm",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Grimmsnarl",
+            "Zarude"
+        ]
+    },
+    "Harden": {
+        "move": "Harden",
+        "pokemon": [
+            "Cursola"
+        ]
+    },
+    "Haze": {
+        "move": "Haze",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Cursola",
+            "Runerigus"
+        ]
+    },
+    "Head Smash": {
+        "move": "Head Smash",
+        "pokemon": [
+            "Drednaw",
+            "Cursola",
+            "Eiscue"
+        ]
+    },
+    "Headbutt": {
+        "move": "Headbutt",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Obstagoon",
+            "Falinks",
+            "Eiscue",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Heal Pulse": {
+        "move": "Heal Pulse",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Indeedee"
+        ]
+    },
+    "Healing Wish": {
+        "move": "Healing Wish",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Indeedee"
+        ]
+    },
+    "Heat Crash": {
+        "move": "Heat Crash",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sizzlipede",
+            "Centiskorch",
+            "Stonjourner",
+            "Copperajah"
+        ]
+    },
+    "Heat Wave": {
+        "move": "Heat Wave",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Carkol",
+            "Coalossal",
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Heavy Slam": {
+        "move": "Heavy Slam",
+        "pokemon": [
+            "Corviknight",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Perrserker",
+            "Stonjourner",
+            "Copperajah",
+            "Duraludon"
+        ]
+    },
+    "Helping Hand": {
+        "move": "Helping Hand",
+        "pokemon": [
+            "Cinderace",
+            "Dottler",
+            "Orbeetle",
+            "Gossifleur",
+            "Eldegoss",
+            "Yamper",
+            "Boltund",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Obstagoon",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Frosmoth",
+            "Indeedee",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Hex": {
+        "move": "Hex",
+        "pokemon": [
+            "Toxtricity",
+            "Sinistea",
+            "Polteageist",
+            "Cursola",
+            "Runerigus",
+            "Pincurchin",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "High Horsepower": {
+        "move": "High Horsepower",
+        "pokemon": [
+            "Rillaboom",
+            "Drednaw",
+            "Carkol",
+            "Coalossal",
+            "Appletun",
+            "Sandaconda",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt"
+        ]
+    },
+    "High Jump Kick": {
+        "move": "High Jump Kick",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace"
+        ]
+    },
+    "Hone Claws": {
+        "move": "Hone Claws",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Obstagoon",
+            "Perrserker",
+            "Duraludon"
+        ]
+    },
+    "Howl": {
+        "move": "Howl",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Hurricane": {
+        "move": "Hurricane",
+        "pokemon": [
+            "Corviknight",
+            "Sandaconda",
+            "Cramorant",
+            "Frosmoth"
+        ]
+    },
+    "Hydro Cannon": {
+        "move": "Hydro Cannon",
+        "pokemon": [
+            "Inteleon"
+        ]
+    },
+    "Hydro Pump": {
+        "move": "Hydro Pump",
+        "pokemon": [
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Barraskewda",
+            "Grapploct",
+            "Cursola",
+            "Pincurchin",
+            "Eiscue",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Hyper Beam": {
+        "move": "Hyper Beam",
+        "pokemon": [
+            "Rillaboom",
+            "Cinderace",
+            "Inteleon",
+            "Greedent",
+            "Corviknight",
+            "Orbeetle",
+            "Thievul",
+            "Eldegoss",
+            "Dubwool",
+            "Drednaw",
+            "Boltund",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Toxtricity",
+            "Centiskorch",
+            "Grapploct",
+            "Polteageist",
+            "Hatterene",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Falinks",
+            "Frosmoth",
+            "Stonjourner",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Zarude"
+        ]
+    },
+    "Hyper Voice": {
+        "move": "Hyper Voice",
+        "pokemon": [
+            "Rillaboom",
+            "Skwovet",
+            "Greedent",
+            "Gossifleur",
+            "Eldegoss",
+            "Boltund",
+            "Toxtricity",
+            "Obstagoon",
+            "Perrserker",
+            "Indeedee",
+            "Arctozolt",
+            "Zacian",
+            "Zamazenta",
+            "Zarude"
+        ]
+    },
+    "Hypnosis": {
+        "move": "Hypnosis",
+        "pokemon": [
+            "Orbeetle",
+            "Mr. Rime"
+        ]
+    },
+    "Ice Beam": {
+        "move": "Ice Beam",
+        "pokemon": [
+            "Inteleon",
+            "Drednaw",
+            "Cramorant",
+            "Obstagoon",
+            "Cursola",
+            "Mr. Rime",
+            "Frosmoth",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Ice Fang": {
+        "move": "Ice Fang",
+        "pokemon": [
+            "Greedent",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Arrokuda",
+            "Barraskewda",
+            "Morpeko",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Ice Punch": {
+        "move": "Ice Punch",
+        "pokemon": [
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Mr. Rime",
+            "Eiscue",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Ice Shard": {
+        "move": "Ice Shard",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Mr. Rime"
+        ]
+    },
+    "Icicle Crash": {
+        "move": "Icicle Crash",
+        "pokemon": [
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Icicle Spear": {
+        "move": "Icicle Spear",
+        "pokemon": [
+            "Inteleon",
+            "Cursola",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Icy Wind": {
+        "move": "Icy Wind",
+        "pokemon": [
+            "Inteleon",
+            "Cramorant",
+            "Obstagoon",
+            "Cursola",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Imprison": {
+        "move": "Imprison",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Runerigus",
+            "Alcremie",
+            "Frosmoth",
+            "Stonjourner",
+            "Indeedee",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Incinerate": {
+        "move": "Incinerate",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal"
+        ]
+    },
+    "Inferno": {
+        "move": "Inferno",
+        "pokemon": [
+            "Centiskorch"
+        ]
+    },
+    "Infestation": {
+        "move": "Infestation",
+        "pokemon": [
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Frosmoth",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Iron Defense": {
+        "move": "Iron Defense",
+        "pokemon": [
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Sandaconda",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Falinks",
+            "Stonjourner",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Arctovish",
+            "Duraludon",
+            "Zamazenta",
+            "Urshifu"
+        ]
+    },
+    "Iron Head": {
+        "move": "Iron Head",
+        "pokemon": [
+            "Cinderace",
+            "Corviknight",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sandaconda",
+            "Perrserker",
+            "Falinks",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Iron Tail": {
+        "move": "Iron Tail",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Drednaw",
+            "Obstagoon",
+            "Perrserker",
+            "Dracozolt",
+            "Arctozolt",
+            "Zacian",
+            "Zamazenta",
+            "Zarude"
+        ]
+    },
+    "Jaw Lock": {
+        "move": "Jaw Lock",
+        "pokemon": [
+            "Chewtle",
+            "Drednaw"
+        ]
+    },
+    "Jungle Healing": {
+        "move": "Jungle Healing",
+        "pokemon": [
+            "Zarude"
+        ]
+    },
+    "Knock Off": {
+        "move": "Knock Off",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Nickit",
+            "Thievul",
+            "Sizzlipede",
+            "Centiskorch",
+            "Obstagoon",
+            "Sirfetch'd"
+        ]
+    },
+    "Laser Focus": {
+        "move": "Laser Focus",
+        "pokemon": [
+            "Arrokuda",
+            "Barraskewda",
+            "Duraludon",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Lash Out": {
+        "move": "Lash Out",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Morpeko",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Last Resort": {
+        "move": "Last Resort",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Dubwool",
+            "Silicobra",
+            "Sandaconda",
+            "Milcery",
+            "Alcremie",
+            "Indeedee",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Leaf Blade": {
+        "move": "Leaf Blade",
+        "pokemon": [
+            "Sirfetch'd"
+        ]
+    },
+    "Leaf Storm": {
+        "move": "Leaf Storm",
+        "pokemon": [
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Leaf Tornado": {
+        "move": "Leaf Tornado",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Leafage": {
+        "move": "Leafage",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Leech Life": {
+        "move": "Leech Life",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Sizzlipede",
+            "Centiskorch",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Cursola",
+            "Frosmoth",
+            "Dracovish"
+        ]
+    },
+    "Leech Seed": {
+        "move": "Leech Seed",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss",
+            "Flapple",
+            "Appletun"
+        ]
+    },
+    "Leer": {
+        "move": "Leer",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Obstagoon",
+            "Sirfetch'd",
+            "Morpeko",
+            "Duraludon",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Lick": {
+        "move": "Lick",
+        "pokemon": [
+            "Obstagoon"
+        ]
+    },
+    "Life Dew": {
+        "move": "Life Dew",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene"
+        ]
+    },
+    "Light Screen": {
+        "move": "Light Screen",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Gossifleur",
+            "Eldegoss",
+            "Appletun",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Morgrem",
+            "Grimmsnarl",
+            "Cursola",
+            "Mr. Rime",
+            "Alcremie",
+            "Frosmoth",
+            "Indeedee",
+            "Duraludon",
+            "Dragapult",
+            "Zamazenta",
+            "Eternatus"
+        ]
+    },
+    "Liquidation": {
+        "move": "Liquidation",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Clobbopus",
+            "Grapploct",
+            "Cursola",
+            "Pincurchin",
+            "Eiscue",
+            "Dracovish",
+            "Arctovish",
+            "Urshifu"
+        ]
+    },
+    "Lock-On": {
+        "move": "Lock-On",
+        "pokemon": [
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Low Kick": {
+        "move": "Low Kick",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Low Sweep": {
+        "move": "Low Sweep",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Grimmsnarl",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Lunge": {
+        "move": "Lunge",
+        "pokemon": [
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Magic Coat": {
+        "move": "Magic Coat",
+        "pokemon": [
+            "Orbeetle"
+        ]
+    },
+    "Magic Powder": {
+        "move": "Magic Powder",
+        "pokemon": [
+            "Hatterene"
+        ]
+    },
+    "Magic Room": {
+        "move": "Magic Room",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatterene",
+            "Mr. Rime",
+            "Alcremie",
+            "Indeedee"
+        ]
+    },
+    "Magical Leaf": {
+        "move": "Magical Leaf",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Alcremie",
+            "Indeedee",
+            "Zarude"
+        ]
+    },
+    "Magnetic Flux": {
+        "move": "Magnetic Flux",
+        "pokemon": [
+            "Toxtricity"
+        ]
+    },
+    "Max Airstream": {
+        "move": "Max Airstream",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Thievul",
+            "Dubwool",
+            "Flapple",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Sirfetch'd",
+            "Pincurchin",
+            "Frosmoth",
+            "Dracozolt",
+            "Arctozolt",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Darkness": {
+        "move": "Max Darkness",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Stonjourner",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Flare": {
+        "move": "Max Flare",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Greedent",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sandaconda",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Cursola",
+            "Alcremie",
+            "Stonjourner",
+            "Indeedee",
+            "Morpeko",
+            "Copperajah",
+            "Dracozolt",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Max Flutterby": {
+        "move": "Max Flutterby",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Chewtle",
+            "Drednaw",
+            "Flapple",
+            "Silicobra",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Grapploct",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Dracovish",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Geyser": {
+        "move": "Max Geyser",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Carkol",
+            "Coalossal",
+            "Cramorant",
+            "Barraskewda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Obstagoon",
+            "Cursola",
+            "Pincurchin",
+            "Eiscue",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Drakloak",
+            "Dragapult",
+            "Urshifu"
+        ]
+    },
+    "Max Guard": {
+        "move": "Max Guard",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Hailstorm": {
+        "move": "Max Hailstorm",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Greedent",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Barraskewda",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Cursola",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth",
+            "Eiscue",
+            "Morpeko",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Max Knuckle": {
+        "move": "Max Knuckle",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Carkol",
+            "Coalossal",
+            "Appletun",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Duraludon",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Lightning": {
+        "move": "Max Lightning",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Greedent",
+            "Thievul",
+            "Wooloo",
+            "Dubwool",
+            "Yamper",
+            "Boltund",
+            "Toxel",
+            "Toxtricity",
+            "Centiskorch",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Pincurchin",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Max Mindstorm": {
+        "move": "Max Mindstorm",
+        "pokemon": [
+            "Cinderace",
+            "Greedent",
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Dubwool",
+            "Boltund",
+            "Sandaconda",
+            "Barraskewda",
+            "Toxtricity",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Snom",
+            "Frosmoth",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Max Ooze": {
+        "move": "Max Ooze",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Skwovet",
+            "Greedent",
+            "Drednaw",
+            "Flapple",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Falinks",
+            "Pincurchin",
+            "Cufant",
+            "Copperajah",
+            "Urshifu"
+        ]
+    },
+    "Max Overgrowth": {
+        "move": "Max Overgrowth",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Skwovet",
+            "Greedent",
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Coalossal",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Sizzlipede",
+            "Centiskorch",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Frosmoth",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Duraludon",
+            "Dragapult",
+            "Zarude"
+        ]
+    },
+    "Max Phantasm": {
+        "move": "Max Phantasm",
+        "pokemon": [
+            "Cinderace",
+            "Inteleon",
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Toxtricity",
+            "Sinistea",
+            "Polteageist",
+            "Hatterene",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Pincurchin",
+            "Indeedee",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Max Quake": {
+        "move": "Max Quake",
+        "pokemon": [
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Nickit",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Barraskewda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Stonjourner",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Duraludon",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Rockfall": {
+        "move": "Max Rockfall",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Cursola",
+            "Runerigus",
+            "Falinks",
+            "Stonjourner",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Starfall": {
+        "move": "Max Starfall",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Mr. Rime",
+            "Milcery",
+            "Alcremie",
+            "Snom",
+            "Frosmoth",
+            "Indeedee",
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Max Steelspike": {
+        "move": "Max Steelspike",
+        "pokemon": [
+            "Cinderace",
+            "Skwovet",
+            "Greedent",
+            "Corviknight",
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Sandaconda",
+            "Cramorant",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Falinks",
+            "Stonjourner",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Strike": {
+        "move": "Max Strike",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Max Wyrmwind": {
+        "move": "Max Wyrmwind",
+        "pokemon": [
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Barraskewda",
+            "Runerigus",
+            "Morpeko",
+            "Copperajah",
+            "Dracozolt",
+            "Dracovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Mean Look": {
+        "move": "Mean Look",
+        "pokemon": [
+            "Runerigus"
+        ]
+    },
+    "Mega Drain": {
+        "move": "Mega Drain",
+        "pokemon": [
+            "Sinistea",
+            "Polteageist"
+        ]
+    },
+    "Mega Kick": {
+        "move": "Mega Kick",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Dubwool",
+            "Coalossal",
+            "Toxtricity",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Mr. Rime",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Mega Punch": {
+        "move": "Mega Punch",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Coalossal",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Mr. Rime",
+            "Dracozolt",
+            "Arctozolt",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Megahorn": {
+        "move": "Megahorn",
+        "pokemon": [
+            "Drednaw",
+            "Falinks"
+        ]
+    },
+    "Memento": {
+        "move": "Memento",
+        "pokemon": [
+            "Sinistea",
+            "Polteageist",
+            "Runerigus",
+            "Pincurchin"
+        ]
+    },
+    "Metal Burst": {
+        "move": "Metal Burst",
+        "pokemon": [
+            "Perrserker",
+            "Duraludon",
+            "Zamazenta"
+        ]
+    },
+    "Metal Claw": {
+        "move": "Metal Claw",
+        "pokemon": [
+            "Perrserker",
+            "Duraludon",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Metal Sound": {
+        "move": "Metal Sound",
+        "pokemon": [
+            "Corviknight",
+            "Toxel",
+            "Toxtricity",
+            "Perrserker",
+            "Duraludon"
+        ]
+    },
+    "Meteor Assault": {
+        "move": "Meteor Assault",
+        "pokemon": [
+            "Sirfetch'd"
+        ]
+    },
+    "Meteor Beam": {
+        "move": "Meteor Beam",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Cursola",
+            "Stonjourner",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Eternatus"
+        ]
+    },
+    "Metronome": {
+        "move": "Metronome",
+        "pokemon": [
+            "Inteleon",
+            "Sinistea",
+            "Polteageist",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Alcremie",
+            "Indeedee"
+        ]
+    },
+    "Mimic": {
+        "move": "Mimic",
+        "pokemon": [
+            "Mr. Rime"
+        ]
+    },
+    "Minimize": {
+        "move": "Minimize",
+        "pokemon": [
+            "Silicobra",
+            "Sandaconda"
+        ]
+    },
+    "Mirror Coat": {
+        "move": "Mirror Coat",
+        "pokemon": [
+            "Orbeetle",
+            "Cursola",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth",
+            "Duraludon"
+        ]
+    },
+    "Mist": {
+        "move": "Mist",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Frosmoth",
+            "Eiscue"
+        ]
+    },
+    "Misty Explosion": {
+        "move": "Misty Explosion",
+        "pokemon": [
+            "Hatterene",
+            "Alcremie"
+        ]
+    },
+    "Misty Terrain": {
+        "move": "Misty Terrain",
+        "pokemon": [
+            "Mr. Rime",
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Moonblast": {
+        "move": "Moonblast",
+        "pokemon": [
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Mud Shot": {
+        "move": "Mud Shot",
+        "pokemon": [
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Nickit",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Silicobra",
+            "Sandaconda",
+            "Clobbopus",
+            "Grapploct",
+            "Obstagoon",
+            "Cufant",
+            "Copperajah",
+            "Zarude"
+        ]
+    },
+    "Mud-Slap": {
+        "move": "Mud-Slap",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Silicobra",
+            "Sandaconda"
+        ]
+    },
+    "Muddy Water": {
+        "move": "Muddy Water",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Drednaw",
+            "Clobbopus",
+            "Grapploct",
+            "Pincurchin"
+        ]
+    },
+    "Mystical Fire": {
+        "move": "Mystical Fire",
+        "pokemon": [
+            "Centiskorch",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Alcremie",
+            "Indeedee",
+            "Eternatus"
+        ]
+    },
+    "Nasty Plot": {
+        "move": "Nasty Plot",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Sinistea",
+            "Polteageist",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Mr. Rime",
+            "Runerigus",
+            "Morpeko",
+            "Zarude"
+        ]
+    },
+    "Nature Power": {
+        "move": "Nature Power",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Cursola"
+        ]
+    },
+    "Night Shade": {
+        "move": "Night Shade",
+        "pokemon": [
+            "Cursola",
+            "Runerigus"
+        ]
+    },
+    "Night Slash": {
+        "move": "Night Slash",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Arrokuda",
+            "Barraskewda",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Duraludon"
+        ]
+    },
+    "No Retreat": {
+        "move": "No Retreat",
+        "pokemon": [
+            "Falinks"
+        ]
+    },
+    "Noble Roar": {
+        "move": "Noble Roar",
+        "pokemon": [
+            "Rillaboom",
+            "Toxtricity"
+        ]
+    },
+    "Nuzzle": {
+        "move": "Nuzzle",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxel",
+            "Toxtricity",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene"
+        ]
+    },
+    "Obstruct": {
+        "move": "Obstruct",
+        "pokemon": [
+            "Obstagoon"
+        ]
+    },
+    "Octazooka": {
+        "move": "Octazooka",
+        "pokemon": [
+            "Grapploct"
+        ]
+    },
+    "Octolock": {
+        "move": "Octolock",
+        "pokemon": [
+            "Grapploct"
+        ]
+    },
+    "Outrage": {
+        "move": "Outrage",
+        "pokemon": [
+            "Flapple",
+            "Appletun",
+            "Sandaconda",
+            "Morpeko",
+            "Copperajah",
+            "Dracozolt",
+            "Dracovish",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Overdrive": {
+        "move": "Overdrive",
+        "pokemon": [
+            "Toxtricity"
+        ]
+    },
+    "Overheat": {
+        "move": "Overheat",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Carkol",
+            "Coalossal",
+            "Centiskorch"
+        ]
+    },
+    "Pain Split": {
+        "move": "Pain Split",
+        "pokemon": [
+            "Clobbopus",
+            "Grapploct"
+        ]
+    },
+    "Parting Shot": {
+        "move": "Parting Shot",
+        "pokemon": [
+            "Thievul",
+            "Obstagoon",
+            "Morpeko"
+        ]
+    },
+    "Pay Day": {
+        "move": "Pay Day",
+        "pokemon": [
+            "Perrserker",
+            "Indeedee"
+        ]
+    },
+    "Payback": {
+        "move": "Payback",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Appletun",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Runerigus",
+            "Falinks",
+            "Pincurchin",
+            "Morpeko",
+            "Copperajah",
+            "Arctozolt",
+            "Zamazenta",
+            "Eternatus",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Peck": {
+        "move": "Peck",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Sirfetch'd",
+            "Pincurchin"
+        ]
+    },
+    "Perish Song": {
+        "move": "Perish Song",
+        "pokemon": [
+            "Cursola"
+        ]
+    },
+    "Phantom Force": {
+        "move": "Phantom Force",
+        "pokemon": [
+            "Sinistea",
+            "Polteageist",
+            "Runerigus",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Pin Missile": {
+        "move": "Pin Missile",
+        "pokemon": [
+            "Obstagoon",
+            "Cursola",
+            "Pincurchin"
+        ]
+    },
+    "Play Nice": {
+        "move": "Play Nice",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Indeedee"
+        ]
+    },
+    "Play Rough": {
+        "move": "Play Rough",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Alcremie",
+            "Frosmoth",
+            "Indeedee",
+            "Cufant",
+            "Copperajah",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Pluck": {
+        "move": "Pluck",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Cramorant",
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Poison Jab": {
+        "move": "Poison Jab",
+        "pokemon": [
+            "Drednaw",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxtricity",
+            "Sirfetch'd",
+            "Falinks",
+            "Pincurchin",
+            "Eternatus",
+            "Urshifu"
+        ]
+    },
+    "Poison Powder": {
+        "move": "Poison Powder",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Poison Tail": {
+        "move": "Poison Tail",
+        "pokemon": [
+            "Silicobra",
+            "Sandaconda",
+            "Eternatus"
+        ]
+    },
+    "Pollen Puff": {
+        "move": "Pollen Puff",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Poltergeist": {
+        "move": "Poltergeist",
+        "pokemon": [
+            "Sinistea",
+            "Polteageist",
+            "Cursola",
+            "Runerigus"
+        ]
+    },
+    "Pound": {
+        "move": "Pound",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Mr. Rime"
+        ]
+    },
+    "Powder Snow": {
+        "move": "Powder Snow",
+        "pokemon": [
+            "Snom",
+            "Frosmoth",
+            "Eiscue",
+            "Arctozolt",
+            "Arctovish"
+        ]
+    },
+    "Power Gem": {
+        "move": "Power Gem",
+        "pokemon": [
+            "Cursola"
+        ]
+    },
+    "Power Split": {
+        "move": "Power Split",
+        "pokemon": [
+            "Mr. Rime",
+            "Runerigus",
+            "Indeedee"
+        ]
+    },
+    "Power Swap": {
+        "move": "Power Swap",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatterene",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Runerigus",
+            "Indeedee",
+            "Zamazenta"
+        ]
+    },
+    "Power Trip": {
+        "move": "Power Trip",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Morpeko"
+        ]
+    },
+    "Power Whip": {
+        "move": "Power Whip",
+        "pokemon": [
+            "Sizzlipede",
+            "Centiskorch",
+            "Hatterene",
+            "Grimmsnarl",
+            "Cufant",
+            "Copperajah",
+            "Zarude"
+        ]
+    },
+    "Power-Up Punch": {
+        "move": "Power-Up Punch",
+        "pokemon": [
+            "Toxel",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl"
+        ]
+    },
+    "Protect": {
+        "move": "Protect",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Psybeam": {
+        "move": "Psybeam",
+        "pokemon": [
+            "Orbeetle",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Indeedee"
+        ]
+    },
+    "Psych Up": {
+        "move": "Psych Up",
+        "pokemon": [
+            "Indeedee"
+        ]
+    },
+    "Psychic": {
+        "move": "Psychic",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Indeedee"
+        ]
+    },
+    "Psychic Fangs": {
+        "move": "Psychic Fangs",
+        "pokemon": [
+            "Greedent",
+            "Boltund",
+            "Arrokuda",
+            "Barraskewda",
+            "Morpeko",
+            "Dracovish",
+            "Arctovish",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Psychic Terrain": {
+        "move": "Psychic Terrain",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Mr. Rime",
+            "Indeedee"
+        ]
+    },
+    "Psycho Cut": {
+        "move": "Psycho Cut",
+        "pokemon": [
+            "Orbeetle",
+            "Hatterene",
+            "Zacian"
+        ]
+    },
+    "Psycho Shift": {
+        "move": "Psycho Shift",
+        "pokemon": [
+            "Indeedee"
+        ]
+    },
+    "Psyshock": {
+        "move": "Psyshock",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Alcremie",
+            "Indeedee"
+        ]
+    },
+    "Pyro Ball": {
+        "move": "Pyro Ball",
+        "pokemon": [
+            "Cinderace"
+        ]
+    },
+    "Quash": {
+        "move": "Quash",
+        "pokemon": [
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Morpeko"
+        ]
+    },
+    "Quick Attack": {
+        "move": "Quick Attack",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Nickit",
+            "Thievul",
+            "Sirfetch'd",
+            "Morpeko",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Quick Guard": {
+        "move": "Quick Guard",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Obstagoon",
+            "Sirfetch'd",
+            "Zacian"
+        ]
+    },
+    "Quiver Dance": {
+        "move": "Quiver Dance",
+        "pokemon": [
+            "Frosmoth"
+        ]
+    },
+    "Rain Dance": {
+        "move": "Rain Dance",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Pincurchin",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Urshifu"
+        ]
+    },
+    "Rapid Spin": {
+        "move": "Rapid Spin",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Mr. Rime",
+            "Morpeko"
+        ]
+    },
+    "Razor Leaf": {
+        "move": "Razor Leaf",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Razor Shell": {
+        "move": "Razor Shell",
+        "pokemon": [
+            "Drednaw"
+        ]
+    },
+    "Recover": {
+        "move": "Recover",
+        "pokemon": [
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Appletun",
+            "Milcery",
+            "Alcremie",
+            "Pincurchin",
+            "Eternatus"
+        ]
+    },
+    "Recycle": {
+        "move": "Recycle",
+        "pokemon": [
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Mr. Rime"
+        ]
+    },
+    "Reflect": {
+        "move": "Reflect",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Appletun",
+            "Polteageist",
+            "Morgrem",
+            "Grimmsnarl",
+            "Cursola",
+            "Mr. Rime",
+            "Frosmoth",
+            "Eiscue",
+            "Indeedee",
+            "Duraludon",
+            "Dragapult",
+            "Zamazenta",
+            "Eternatus"
+        ]
+    },
+    "Rest": {
+        "move": "Rest",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Retaliate": {
+        "move": "Retaliate",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dubwool",
+            "Clobbopus",
+            "Grapploct",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Falinks",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Revenge": {
+        "move": "Revenge",
+        "pokemon": [
+            "Cinderace",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Chewtle",
+            "Drednaw",
+            "Clobbopus",
+            "Grapploct",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Cursola",
+            "Sirfetch'd",
+            "Runerigus",
+            "Falinks",
+            "Morpeko",
+            "Copperajah",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Reversal": {
+        "move": "Reversal",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Wooloo",
+            "Dubwool",
+            "Cramorant",
+            "Clobbopus",
+            "Grapploct",
+            "Obstagoon",
+            "Falinks",
+            "Pincurchin",
+            "Eiscue",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Rising Voltage": {
+        "move": "Rising Voltage",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Pincurchin",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Roar": {
+        "move": "Roar",
+        "pokemon": [
+            "Yamper",
+            "Boltund"
+        ]
+    },
+    "Rock Blast": {
+        "move": "Rock Blast",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish"
+        ]
+    },
+    "Rock Polish": {
+        "move": "Rock Polish",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Stonjourner"
+        ]
+    },
+    "Rock Slide": {
+        "move": "Rock Slide",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Falinks",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Rock Smash": {
+        "move": "Rock Smash",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Clobbopus",
+            "Grapploct",
+            "Sirfetch'd",
+            "Falinks",
+            "Cufant",
+            "Copperajah",
+            "Duraludon",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Rock Throw": {
+        "move": "Rock Throw",
+        "pokemon": [
+            "Stonjourner"
+        ]
+    },
+    "Rock Tomb": {
+        "move": "Rock Tomb",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Falinks",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Role Play": {
+        "move": "Role Play",
+        "pokemon": [
+            "Mr. Rime"
+        ]
+    },
+    "Rollout": {
+        "move": "Rollout",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Sizzlipede",
+            "Centiskorch",
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Roost": {
+        "move": "Roost",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Cramorant"
+        ]
+    },
+    "Round": {
+        "move": "Round",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Sacred Sword": {
+        "move": "Sacred Sword",
+        "pokemon": [
+            "Zacian"
+        ]
+    },
+    "Safeguard": {
+        "move": "Safeguard",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Dottler",
+            "Orbeetle",
+            "Appletun",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Frosmoth",
+            "Stonjourner",
+            "Indeedee",
+            "Zamazenta"
+        ]
+    },
+    "Sand Attack": {
+        "move": "Sand Attack",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Yamper",
+            "Boltund",
+            "Silicobra",
+            "Sandaconda",
+            "Obstagoon",
+            "Sirfetch'd"
+        ]
+    },
+    "Sand Tomb": {
+        "move": "Sand Tomb",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Silicobra",
+            "Sandaconda",
+            "Runerigus",
+            "Stonjourner"
+        ]
+    },
+    "Sandstorm": {
+        "move": "Sandstorm",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Silicobra",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Stonjourner"
+        ]
+    },
+    "Scald": {
+        "move": "Scald",
+        "pokemon": [
+            "Inteleon",
+            "Drednaw",
+            "Carkol",
+            "Coalossal",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Cursola",
+            "Pincurchin",
+            "Dracovish",
+            "Drakloak",
+            "Dragapult",
+            "Urshifu"
+        ]
+    },
+    "Scale Shot": {
+        "move": "Scale Shot",
+        "pokemon": [
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Silicobra",
+            "Sandaconda",
+            "Arrokuda",
+            "Barraskewda"
+        ]
+    },
+    "Scary Face": {
+        "move": "Scary Face",
+        "pokemon": [
+            "Rillaboom",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Drednaw",
+            "Flapple",
+            "Barraskewda",
+            "Toxtricity",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Runerigus",
+            "Morpeko",
+            "Copperajah",
+            "Duraludon",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Scorching Sands": {
+        "move": "Scorching Sands",
+        "pokemon": [
+            "Cinderace",
+            "Carkol",
+            "Coalossal",
+            "Silicobra",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Scratch": {
+        "move": "Scratch",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Perrserker",
+            "Zarude"
+        ]
+    },
+    "Screech": {
+        "move": "Screech",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Silicobra",
+            "Sandaconda",
+            "Toxtricity",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Falinks",
+            "Cufant",
+            "Copperajah",
+            "Duraludon",
+            "Eternatus"
+        ]
+    },
+    "Seed Bomb": {
+        "move": "Seed Bomb",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Eldegoss",
+            "Flapple",
+            "Appletun",
+            "Obstagoon",
+            "Perrserker",
+            "Morpeko",
+            "Zarude"
+        ]
+    },
+    "Seismic Toss": {
+        "move": "Seismic Toss",
+        "pokemon": [
+            "Clobbopus",
+            "Grapploct"
+        ]
+    },
+    "Self-Destruct": {
+        "move": "Self-Destruct",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Polteageist",
+            "Cursola",
+            "Pincurchin",
+            "Stonjourner"
+        ]
+    },
+    "Shadow Ball": {
+        "move": "Shadow Ball",
+        "pokemon": [
+            "Cinderace",
+            "Inteleon",
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Sinistea",
+            "Polteageist",
+            "Hatterene",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Indeedee",
+            "Drakloak",
+            "Dragapult",
+            "Eternatus"
+        ]
+    },
+    "Shadow Claw": {
+        "move": "Shadow Claw",
+        "pokemon": [
+            "Thievul",
+            "Hatterene",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Runerigus"
+        ]
+    },
+    "Shell Smash": {
+        "move": "Shell Smash",
+        "pokemon": [
+            "Sinistea",
+            "Polteageist"
+        ]
+    },
+    "Shift Gear": {
+        "move": "Shift Gear",
+        "pokemon": [
+            "Toxtricity"
+        ]
+    },
+    "Shock Wave": {
+        "move": "Shock Wave",
+        "pokemon": [
+            "Toxtricity"
+        ]
+    },
+    "Simple Beam": {
+        "move": "Simple Beam",
+        "pokemon": [
+            "Sirfetch'd"
+        ]
+    },
+    "Sing": {
+        "move": "Sing",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Skill Swap": {
+        "move": "Skill Swap",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Runerigus"
+        ]
+    },
+    "Skitter Smack": {
+        "move": "Skitter Smack",
+        "pokemon": [
+            "Chewtle",
+            "Drednaw",
+            "Silicobra",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Grapploct",
+            "Snom",
+            "Frosmoth"
+        ]
+    },
+    "Skull Bash": {
+        "move": "Skull Bash",
+        "pokemon": [
+            "Chewtle",
+            "Drednaw",
+            "Sandaconda"
+        ]
+    },
+    "Sky Attack": {
+        "move": "Sky Attack",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Sirfetch'd"
+        ]
+    },
+    "Slack Off": {
+        "move": "Slack Off",
+        "pokemon": [
+            "Mr. Rime"
+        ]
+    },
+    "Slam": {
+        "move": "Slam",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Silicobra",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Sirfetch'd",
+            "Runerigus",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Slash": {
+        "move": "Slash",
+        "pokemon": [
+            "Arrokuda",
+            "Barraskewda",
+            "Perrserker",
+            "Duraludon",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Sleep Powder": {
+        "move": "Sleep Powder",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Sleep Talk": {
+        "move": "Sleep Talk",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Sludge Bomb": {
+        "move": "Sludge Bomb",
+        "pokemon": [
+            "Toxtricity",
+            "Eternatus"
+        ]
+    },
+    "Sludge Wave": {
+        "move": "Sludge Wave",
+        "pokemon": [
+            "Toxtricity",
+            "Eternatus"
+        ]
+    },
+    "Smack Down": {
+        "move": "Smack Down",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal"
+        ]
+    },
+    "Smart Strike": {
+        "move": "Smart Strike",
+        "pokemon": [
+            "Drednaw",
+            "Falinks"
+        ]
+    },
+    "Smokescreen": {
+        "move": "Smokescreen",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "Snarl": {
+        "move": "Snarl",
+        "pokemon": [
+            "Rillaboom",
+            "Cinderace",
+            "Nickit",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Obstagoon",
+            "Morpeko",
+            "Copperajah",
+            "Duraludon",
+            "Zacian",
+            "Zamazenta",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Snipe Shot": {
+        "move": "Snipe Shot",
+        "pokemon": [
+            "Inteleon"
+        ]
+    },
+    "Snore": {
+        "move": "Snore",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Soak": {
+        "move": "Soak",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Clobbopus",
+            "Grapploct",
+            "Eiscue"
+        ]
+    },
+    "Solar Beam": {
+        "move": "Solar Beam",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Dottler",
+            "Orbeetle",
+            "Gossifleur",
+            "Eldegoss",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Centiskorch",
+            "Mr. Rime",
+            "Alcremie",
+            "Duraludon",
+            "Dragapult",
+            "Zamazenta",
+            "Eternatus",
+            "Zarude"
+        ]
+    },
+    "Solar Blade": {
+        "move": "Solar Blade",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Sirfetch'd",
+            "Zacian",
+            "Zarude"
+        ]
+    },
+    "Spark": {
+        "move": "Spark",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Pincurchin",
+            "Morpeko"
+        ]
+    },
+    "Spikes": {
+        "move": "Spikes",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Pincurchin"
+        ]
+    },
+    "Spirit Break": {
+        "move": "Spirit Break",
+        "pokemon": [
+            "Grimmsnarl"
+        ]
+    },
+    "Spit Up": {
+        "move": "Spit Up",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Cramorant"
+        ]
+    },
+    "Spite": {
+        "move": "Spite",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Perrserker",
+            "Cursola"
+        ]
+    },
+    "Stealth Rock": {
+        "move": "Stealth Rock",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Duraludon"
+        ]
+    },
+    "Steel Beam": {
+        "move": "Steel Beam",
+        "pokemon": [
+            "Corviknight",
+            "Perrserker",
+            "Cufant",
+            "Copperajah",
+            "Duraludon",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Steel Roller": {
+        "move": "Steel Roller",
+        "pokemon": [
+            "Cufant",
+            "Copperajah",
+            "Duraludon"
+        ]
+    },
+    "Steel Wing": {
+        "move": "Steel Wing",
+        "pokemon": [
+            "Corviknight",
+            "Cramorant",
+            "Sirfetch'd",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Sticky Web": {
+        "move": "Sticky Web",
+        "pokemon": [
+            "Blipbug",
+            "Dottler",
+            "Orbeetle"
+        ]
+    },
+    "Stockpile": {
+        "move": "Stockpile",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Cramorant"
+        ]
+    },
+    "Stomp": {
+        "move": "Stomp",
+        "pokemon": [
+            "Wooloo",
+            "Dubwool",
+            "Appletun",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Dracovish"
+        ]
+    },
+    "Stomping Tantrum": {
+        "move": "Stomping Tantrum",
+        "pokemon": [
+            "Rillaboom",
+            "Greedent",
+            "Drednaw",
+            "Grapploct",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Cursola",
+            "Mr. Rime",
+            "Stonjourner",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Duraludon",
+            "Zarude"
+        ]
+    },
+    "Stone Edge": {
+        "move": "Stone Edge",
+        "pokemon": [
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Sandaconda",
+            "Cursola",
+            "Runerigus",
+            "Stonjourner",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Urshifu"
+        ]
+    },
+    "Stored Power": {
+        "move": "Stored Power",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Toxtricity",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Milcery",
+            "Alcremie",
+            "Indeedee"
+        ]
+    },
+    "Strength": {
+        "move": "Strength",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Strength Sap": {
+        "move": "Strength Sap",
+        "pokemon": [
+            "Polteageist",
+            "Cursola"
+        ]
+    },
+    "Struggle Bug": {
+        "move": "Struggle Bug",
+        "pokemon": [
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Sizzlipede",
+            "Centiskorch",
+            "Snom",
+            "Frosmoth"
+        ]
+    },
+    "Stuff Cheeks": {
+        "move": "Stuff Cheeks",
+        "pokemon": [
+            "Skwovet",
+            "Greedent"
+        ]
+    },
+    "Stun Spore": {
+        "move": "Stun Spore",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss",
+            "Frosmoth"
+        ]
+    },
+    "Submission": {
+        "move": "Submission",
+        "pokemon": [
+            "Clobbopus",
+            "Grapploct",
+            "Obstagoon"
+        ]
+    },
+    "Substitute": {
+        "move": "Substitute",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Flapple",
+            "Appletun",
+            "Silicobra",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Eternatus",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Sucker Punch": {
+        "move": "Sucker Punch",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Nickit",
+            "Thievul",
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Clobbopus",
+            "Grapploct",
+            "Sinistea",
+            "Polteageist",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Pincurchin",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Urshifu"
+        ]
+    },
+    "Sunny Day": {
+        "move": "Sunny Day",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Gossifleur",
+            "Eldegoss",
+            "Flapple",
+            "Appletun",
+            "Sizzlipede",
+            "Centiskorch",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Dracozolt",
+            "Zarude"
+        ]
+    },
+    "Super Fang": {
+        "move": "Super Fang",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Skwovet",
+            "Greedent",
+            "Morpeko",
+            "Dracovish",
+            "Arctovish"
+        ]
+    },
+    "Superpower": {
+        "move": "Superpower",
+        "pokemon": [
+            "Rillaboom",
+            "Greedent",
+            "Drednaw",
+            "Appletun",
+            "Cramorant",
+            "Clobbopus",
+            "Grapploct",
+            "Grimmsnarl",
+            "Sirfetch'd",
+            "Falinks",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Supersonic": {
+        "move": "Supersonic",
+        "pokemon": [
+            "Blipbug",
+            "Dottler",
+            "Orbeetle"
+        ]
+    },
+    "Surf": {
+        "move": "Surf",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Barraskewda",
+            "Grapploct",
+            "Obstagoon",
+            "Cursola",
+            "Pincurchin",
+            "Eiscue",
+            "Arctozolt",
+            "Dracovish",
+            "Arctovish",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Surging Strikes": {
+        "move": "Surging Strikes",
+        "pokemon": [
+            "Urshifu"
+        ]
+    },
+    "Swagger": {
+        "move": "Swagger",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Wooloo",
+            "Dubwool",
+            "Toxtricity",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Morpeko",
+            "Cufant",
+            "Copperajah",
+            "Zarude"
+        ]
+    },
+    "Swallow": {
+        "move": "Swallow",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Cramorant"
+        ]
+    },
+    "Sweet Kiss": {
+        "move": "Sweet Kiss",
+        "pokemon": [
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Sweet Scent": {
+        "move": "Sweet Scent",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss",
+            "Appletun",
+            "Milcery",
+            "Alcremie"
+        ]
+    },
+    "Swift": {
+        "move": "Swift",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxtricity",
+            "Obstagoon",
+            "Indeedee",
+            "Morpeko",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult",
+            "Zacian",
+            "Zamazenta",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Switcheroo": {
+        "move": "Switcheroo",
+        "pokemon": [
+            "Obstagoon"
+        ]
+    },
+    "Swords Dance": {
+        "move": "Swords Dance",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Inteleon",
+            "Greedent",
+            "Dubwool",
+            "Drednaw",
+            "Hatterene",
+            "Perrserker",
+            "Sirfetch'd",
+            "Falinks",
+            "Duraludon",
+            "Zacian"
+        ]
+    },
+    "Synthesis": {
+        "move": "Synthesis",
+        "pokemon": [
+            "Gossifleur",
+            "Eldegoss",
+            "Zarude"
+        ]
+    },
+    "Tackle": {
+        "move": "Tackle",
+        "pokemon": [
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Skwovet",
+            "Greedent",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Obstagoon",
+            "Cursola",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Dracozolt",
+            "Dracovish"
+        ]
+    },
+    "Tail Slap": {
+        "move": "Tail Slap",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Nickit",
+            "Thievul",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Tail Whip": {
+        "move": "Tail Whip",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Nickit",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Morpeko"
+        ]
+    },
+    "Tailwind": {
+        "move": "Tailwind",
+        "pokemon": [
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Frosmoth"
+        ]
+    },
+    "Take Down": {
+        "move": "Take Down",
+        "pokemon": [
+            "Wooloo",
+            "Dubwool",
+            "Obstagoon",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Tar Shot": {
+        "move": "Tar Shot",
+        "pokemon": [
+            "Coalossal"
+        ]
+    },
+    "Taunt": {
+        "move": "Taunt",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Runerigus",
+            "Morpeko",
+            "Copperajah",
+            "Dracozolt",
+            "Arctozolt",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Tearful Look": {
+        "move": "Tearful Look",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Toxel",
+            "Toxtricity"
+        ]
+    },
+    "Teatime": {
+        "move": "Teatime",
+        "pokemon": [
+            "Polteageist"
+        ]
+    },
+    "Teeter Dance": {
+        "move": "Teeter Dance",
+        "pokemon": [
+            "Mr. Rime"
+        ]
+    },
+    "Terrain Pulse": {
+        "move": "Terrain Pulse",
+        "pokemon": [
+            "Indeedee"
+        ]
+    },
+    "Thief": {
+        "move": "Thief",
+        "pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Cramorant",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Runerigus",
+            "Morpeko",
+            "Drakloak",
+            "Dragapult",
+            "Zarude"
+        ]
+    },
+    "Thrash": {
+        "move": "Thrash",
+        "pokemon": [
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Perrserker",
+            "Morpeko",
+            "Zarude"
+        ]
+    },
+    "Throat Chop": {
+        "move": "Throat Chop",
+        "pokemon": [
+            "Drednaw",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxtricity",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Sirfetch'd",
+            "Falinks",
+            "Pincurchin",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Thunder": {
+        "move": "Thunder",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Pincurchin",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Thunder Fang": {
+        "move": "Thunder Fang",
+        "pokemon": [
+            "Greedent",
+            "Thievul",
+            "Yamper",
+            "Boltund",
+            "Centiskorch",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Thunder Punch": {
+        "move": "Thunder Punch",
+        "pokemon": [
+            "Toxtricity",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Thunder Shock": {
+        "move": "Thunder Shock",
+        "pokemon": [
+            "Toxtricity",
+            "Pincurchin",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt"
+        ]
+    },
+    "Thunder Wave": {
+        "move": "Thunder Wave",
+        "pokemon": [
+            "Wooloo",
+            "Dubwool",
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Mr. Rime",
+            "Pincurchin",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Thunderbolt": {
+        "move": "Thunderbolt",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Pincurchin",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt",
+            "Duraludon",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Tickle": {
+        "move": "Tickle",
+        "pokemon": [
+            "Mr. Rime",
+            "Morpeko"
+        ]
+    },
+    "Topsy-Turvy": {
+        "move": "Topsy-Turvy",
+        "pokemon": [
+            "Grapploct"
+        ]
+    },
+    "Torment": {
+        "move": "Torment",
+        "pokemon": [
+            "Nickit",
+            "Thievul",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Morpeko"
+        ]
+    },
+    "Toxic": {
+        "move": "Toxic",
+        "pokemon": [
+            "Toxtricity",
+            "Eternatus"
+        ]
+    },
+    "Toxic Spikes": {
+        "move": "Toxic Spikes",
+        "pokemon": [
+            "Runerigus",
+            "Pincurchin",
+            "Eternatus"
+        ]
+    },
+    "Tri Attack": {
+        "move": "Tri Attack",
+        "pokemon": [
+            "Alcremie",
+            "Indeedee",
+            "Dragapult"
+        ]
+    },
+    "Trick": {
+        "move": "Trick",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Sinistea",
+            "Polteageist",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Mr. Rime",
+            "Runerigus",
+            "Indeedee"
+        ]
+    },
+    "Trick Room": {
+        "move": "Trick Room",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Hatterene",
+            "Mr. Rime",
+            "Runerigus",
+            "Indeedee"
+        ]
+    },
+    "Triple Axel": {
+        "move": "Triple Axel",
+        "pokemon": [
+            "Mr. Rime",
+            "Frosmoth"
+        ]
+    },
+    "Twister": {
+        "move": "Twister",
+        "pokemon": [
+            "Flapple"
+        ]
+    },
+    "U-turn": {
+        "move": "U-turn",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Orbeetle",
+            "Thievul",
+            "Flapple",
+            "Perrserker",
+            "Frosmoth",
+            "Drakloak",
+            "Dragapult",
+            "Kubfu",
+            "Urshifu",
+            "Zarude"
+        ]
+    },
+    "Uproar": {
+        "move": "Uproar",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Skwovet",
+            "Greedent",
+            "Yamper",
+            "Boltund",
+            "Cramorant",
+            "Toxtricity",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Perrserker",
+            "Mr. Rime",
+            "Morpeko"
+        ]
+    },
+    "Venom Drench": {
+        "move": "Venom Drench",
+        "pokemon": [
+            "Toxtricity",
+            "Pincurchin",
+            "Eternatus"
+        ]
+    },
+    "Venoshock": {
+        "move": "Venoshock",
+        "pokemon": [
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Pincurchin",
+            "Eternatus"
+        ]
+    },
+    "Vine Whip": {
+        "move": "Vine Whip",
+        "pokemon": [
+            "Zarude"
+        ]
+    },
+    "Volt Switch": {
+        "move": "Volt Switch",
+        "pokemon": [
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Morpeko"
+        ]
+    },
+    "Water Gun": {
+        "move": "Water Gun",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Pincurchin",
+            "Dracovish",
+            "Arctovish"
+        ]
+    },
+    "Water Pledge": {
+        "move": "Water Pledge",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon"
+        ]
+    },
+    "Water Pulse": {
+        "move": "Water Pulse",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Cursola"
+        ]
+    },
+    "Waterfall": {
+        "move": "Waterfall",
+        "pokemon": [
+            "Inteleon",
+            "Drednaw",
+            "Arrokuda",
+            "Barraskewda",
+            "Clobbopus",
+            "Grapploct",
+            "Eiscue",
+            "Dracovish",
+            "Arctovish",
+            "Urshifu"
+        ]
+    },
+    "Weather Ball": {
+        "move": "Weather Ball",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Eldegoss",
+            "Cramorant",
+            "Frosmoth",
+            "Eiscue"
+        ]
+    },
+    "Whirlpool": {
+        "move": "Whirlpool",
+        "pokemon": [
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Chewtle",
+            "Drednaw",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Grapploct",
+            "Obstagoon",
+            "Cursola",
+            "Eiscue",
+            "Dracovish",
+            "Arctovish",
+            "Urshifu"
+        ]
+    },
+    "Whirlwind": {
+        "move": "Whirlwind",
+        "pokemon": [
+            "Cufant",
+            "Copperajah"
+        ]
+    },
+    "Wicked Blow": {
+        "move": "Wicked Blow",
+        "pokemon": [
+            "Urshifu"
+        ]
+    },
+    "Wide Guard": {
+        "move": "Wide Guard",
+        "pokemon": [
+            "Frosmoth",
+            "Stonjourner",
+            "Zamazenta"
+        ]
+    },
+    "Wild Charge": {
+        "move": "Wild Charge",
+        "pokemon": [
+            "Greedent",
+            "Wooloo",
+            "Dubwool",
+            "Yamper",
+            "Boltund",
+            "Toxtricity",
+            "Morpeko",
+            "Dracozolt",
+            "Arctozolt",
+            "Zacian",
+            "Zamazenta"
+        ]
+    },
+    "Will-O-Wisp": {
+        "move": "Will-O-Wisp",
+        "pokemon": [
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Centiskorch",
+            "Sinistea",
+            "Polteageist",
+            "Cursola",
+            "Runerigus",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Wing Attack": {
+        "move": "Wing Attack",
+        "pokemon": [
+            "Flapple"
+        ]
+    },
+    "Withdraw": {
+        "move": "Withdraw",
+        "pokemon": [
+            "Applin",
+            "Flapple",
+            "Appletun",
+            "Sinistea",
+            "Polteageist"
+        ]
+    },
+    "Wonder Room": {
+        "move": "Wonder Room",
+        "pokemon": [
+            "Dottler",
+            "Orbeetle",
+            "Sinistea",
+            "Polteageist",
+            "Hatterene",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Runerigus",
+            "Alcremie",
+            "Stonjourner",
+            "Indeedee"
+        ]
+    },
+    "Wood Hammer": {
+        "move": "Wood Hammer",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom"
+        ]
+    },
+    "Work Up": {
+        "move": "Work Up",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Scorbunny",
+            "Raboot",
+            "Cinderace",
+            "Sobble",
+            "Drizzile",
+            "Inteleon",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Clobbopus",
+            "Grapploct",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Cufant",
+            "Copperajah",
+            "Zacian",
+            "Zamazenta",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Worry Seed": {
+        "move": "Worry Seed",
+        "pokemon": [
+            "Grookey",
+            "Thwackey",
+            "Rillaboom",
+            "Gossifleur",
+            "Eldegoss"
+        ]
+    },
+    "Wrap": {
+        "move": "Wrap",
+        "pokemon": [
+            "Silicobra",
+            "Sandaconda",
+            "Sizzlipede",
+            "Centiskorch"
+        ]
+    },
+    "X-Scissor": {
+        "move": "X-Scissor",
+        "pokemon": [
+            "Sizzlipede",
+            "Centiskorch",
+            "Obstagoon"
+        ]
+    },
+    "X-scissor": {
+        "move": "X-scissor",
+        "pokemon": [
+            "Centiskorch"
+        ]
+    },
+    "Zen Headbutt": {
+        "move": "Zen Headbutt",
+        "pokemon": [
+            "Cinderace",
+            "Dottler",
+            "Orbeetle",
+            "Dubwool",
+            "Sandaconda",
+            "Mr. Rime",
+            "Runerigus",
+            "Falinks",
+            "Eiscue",
+            "Indeedee",
+            "Cufant",
+            "Copperajah",
+            "Dracovish",
+            "Arctovish",
+            "Kubfu",
+            "Urshifu"
+        ]
+    },
+    "Zing Zap": {
+        "move": "Zing Zap",
+        "pokemon": [
+            "Pincurchin"
+        ]
+    }
+}

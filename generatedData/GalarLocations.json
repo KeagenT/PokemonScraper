@@ -1,0 +1,1049 @@
+{
+    "Axew's Eye": {
+        "location": "Axew's Eye",
+        "sword_pokemon": [
+            "Greedent",
+            "Applin",
+            "Flapple",
+            "Cramorant",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Applin",
+            "Appletun",
+            "Cramorant",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Bridge Field": {
+        "location": "Bridge Field",
+        "sword_pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Carkol",
+            "Applin",
+            "Flapple",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Indeedee",
+            "Cufant"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Carkol",
+            "Applin",
+            "Appletun",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Runerigus",
+            "Milcery",
+            "Alcremie",
+            "Indeedee",
+            "Cufant"
+        ]
+    },
+    "Dappled Grove": {
+        "location": "Dappled Grove",
+        "sword_pokemon": [
+            "Skwovet",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Gossifleur",
+            "Eldegoss",
+            "Applin",
+            "Flapple"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Gossifleur",
+            "Eldegoss",
+            "Applin",
+            "Appletun"
+        ]
+    },
+    "Dusty Bowl": {
+        "location": "Dusty Bowl",
+        "sword_pokemon": [
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Eldegoss",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Silicobra",
+            "Sandaconda",
+            "Barraskewda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Hattrem",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Falinks",
+            "Cufant",
+            "Copperajah",
+            "Duraludon"
+        ],
+        "shield_pokemon": [
+            "Corviknight",
+            "Nickit",
+            "Thievul",
+            "Eldegoss",
+            "Dubwool",
+            "Chewtle",
+            "Drednaw",
+            "Boltund",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Silicobra",
+            "Sandaconda",
+            "Barraskewda",
+            "Sizzlipede",
+            "Centiskorch",
+            "Clobbopus",
+            "Grapploct",
+            "Hattrem",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Mr. Rime",
+            "Runerigus",
+            "Falinks",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Duraludon"
+        ]
+    },
+    "East Lake Axewell": {
+        "location": "East Lake Axewell",
+        "sword_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Arrokuda",
+            "Toxel",
+            "Toxtricity",
+            "Indeedee"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Arrokuda",
+            "Toxel",
+            "Toxtricity",
+            "Indeedee"
+        ]
+    },
+    "Energy Plant": {
+        "location": "Energy Plant",
+        "sword_pokemon": [
+            "Zacian",
+            "Eternatus"
+        ],
+        "shield_pokemon": [
+            "Zamazenta",
+            "Eternatus"
+        ]
+    },
+    "Galar Mine": {
+        "location": "Galar Mine",
+        "sword_pokemon": [
+            "Rolycoly",
+            "Carkol"
+        ],
+        "shield_pokemon": [
+            "Rolycoly",
+            "Carkol"
+        ]
+    },
+    "Galar Mine No. 2": {
+        "location": "Galar Mine No. 2",
+        "sword_pokemon": [
+            "Chewtle",
+            "Drednaw"
+        ],
+        "shield_pokemon": [
+            "Chewtle",
+            "Drednaw"
+        ]
+    },
+    "Giant's Cap": {
+        "location": "Giant's Cap",
+        "sword_pokemon": [
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Eldegoss",
+            "Chewtle",
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Cramorant",
+            "Arrokuda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Eldegoss",
+            "Chewtle",
+            "Drednaw",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Cramorant",
+            "Arrokuda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth",
+            "Eiscue"
+        ]
+    },
+    "Giant's Mirror": {
+        "location": "Giant's Mirror",
+        "sword_pokemon": [
+            "Greedent",
+            "Corvisquire",
+            "Dottler",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Applin",
+            "Flapple",
+            "Arrokuda",
+            "Toxel",
+            "Toxtricity",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Runerigus",
+            "Milcery",
+            "Pincurchin",
+            "Morpeko"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Corvisquire",
+            "Dottler",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Applin",
+            "Appletun",
+            "Arrokuda",
+            "Toxel",
+            "Toxtricity",
+            "Sinistea",
+            "Polteageist",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Runerigus",
+            "Milcery",
+            "Pincurchin",
+            "Morpeko"
+        ]
+    },
+    "Giant's Seat": {
+        "location": "Giant's Seat",
+        "sword_pokemon": [
+            "Greedent",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Perrserker",
+            "Stonjourner",
+            "Cufant",
+            "Copperajah",
+            "Duraludon"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Perrserker",
+            "Mr. Rime",
+            "Eiscue",
+            "Cufant",
+            "Copperajah",
+            "Duraludon"
+        ]
+    },
+    "Glimwood Tangle": {
+        "location": "Glimwood Tangle",
+        "sword_pokemon": [
+            "Sinistea",
+            "Hattrem",
+            "Impidimp",
+            "Morgrem",
+            "Indeedee"
+        ],
+        "shield_pokemon": [
+            "Sinistea",
+            "Hattrem",
+            "Impidimp",
+            "Morgrem",
+            "Indeedee"
+        ]
+    },
+    "Hammerlocke Hills": {
+        "location": "Hammerlocke Hills",
+        "sword_pokemon": [
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Thievul",
+            "Dubwool",
+            "Cramorant",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth",
+            "Indeedee",
+            "Copperajah"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Thievul",
+            "Dubwool",
+            "Cramorant",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Mr. Rime",
+            "Snom",
+            "Frosmoth",
+            "Eiscue",
+            "Indeedee",
+            "Copperajah"
+        ]
+    },
+    "Hulbury": {
+        "location": "Hulbury",
+        "sword_pokemon": [
+            "Chewtle",
+            "Arrokuda"
+        ],
+        "shield_pokemon": [
+            "Chewtle",
+            "Arrokuda"
+        ]
+    },
+    "Lake of Outrage": {
+        "location": "Lake of Outrage",
+        "sword_pokemon": [
+            "Greedent",
+            "Corviknight",
+            "Orbeetle",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Coalossal",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Grapploct",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Stonjourner",
+            "Indeedee",
+            "Morpeko",
+            "Copperajah",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Corviknight",
+            "Orbeetle",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Boltund",
+            "Coalossal",
+            "Sandaconda",
+            "Cramorant",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Sizzlipede",
+            "Centiskorch",
+            "Grapploct",
+            "Hatterene",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Obstagoon",
+            "Perrserker",
+            "Milcery",
+            "Alcremie",
+            "Falinks",
+            "Pincurchin",
+            "Snom",
+            "Eiscue",
+            "Indeedee",
+            "Morpeko",
+            "Copperajah",
+            "Duraludon",
+            "Dreepy",
+            "Drakloak"
+        ]
+    },
+    "Motostoke": {
+        "location": "Motostoke",
+        "sword_pokemon": [
+            "Chewtle",
+            "Sizzlipede"
+        ],
+        "shield_pokemon": [
+            "Chewtle",
+            "Sizzlipede"
+        ]
+    },
+    "Motostoke Outskirts": {
+        "location": "Motostoke Outskirts",
+        "sword_pokemon": [
+            "Chewtle",
+            "Hatenna",
+            "Impidimp"
+        ],
+        "shield_pokemon": [
+            "Chewtle",
+            "Hatenna",
+            "Impidimp"
+        ]
+    },
+    "Motostoke Riverbank": {
+        "location": "Motostoke Riverbank",
+        "sword_pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Pincurchin",
+            "Indeedee",
+            "Morpeko"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Rookidee",
+            "Corvisquire",
+            "Corviknight",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Chewtle",
+            "Yamper",
+            "Boltund",
+            "Rolycoly",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Pincurchin",
+            "Indeedee",
+            "Morpeko"
+        ]
+    },
+    "North Lake Miloch": {
+        "location": "North Lake Miloch",
+        "sword_pokemon": [
+            "Skwovet",
+            "Corviknight",
+            "Boltund",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Sirfetch'd",
+            "Falinks"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Corviknight",
+            "Boltund",
+            "Arrokuda",
+            "Barraskewda",
+            "Toxel",
+            "Toxtricity",
+            "Clobbopus",
+            "Grapploct",
+            "Falinks"
+        ]
+    },
+    "Rolling Fields": {
+        "location": "Rolling Fields",
+        "sword_pokemon": [
+            "Skwovet",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Wooloo",
+            "Dubwool",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Runerigus",
+            "Falinks",
+            "Stonjourner",
+            "Indeedee",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Wooloo",
+            "Dubwool",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Impidimp",
+            "Morgrem",
+            "Grimmsnarl",
+            "Runerigus",
+            "Falinks",
+            "Indeedee",
+            "Dreepy",
+            "Drakloak",
+            "Dragapult"
+        ]
+    },
+    "Route 1": {
+        "location": "Route 1",
+        "sword_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Blipbug",
+            "Nickit",
+            "Wooloo"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Blipbug",
+            "Nickit",
+            "Wooloo"
+        ]
+    },
+    "Route 10": {
+        "location": "Route 10",
+        "sword_pokemon": [
+            "Snom",
+            "Stonjourner",
+            "Duraludon"
+        ],
+        "shield_pokemon": [
+            "Snom",
+            "Eiscue",
+            "Duraludon"
+        ]
+    },
+    "Route 2": {
+        "location": "Route 2",
+        "sword_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Blipbug",
+            "Nickit",
+            "Gossifleur",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Arrokuda",
+            "Barraskewda",
+            "Obstagoon"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Blipbug",
+            "Nickit",
+            "Gossifleur",
+            "Chewtle",
+            "Drednaw",
+            "Yamper",
+            "Arrokuda",
+            "Barraskewda"
+        ]
+    },
+    "Route 3": {
+        "location": "Route 3",
+        "sword_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Corvisquire",
+            "Gossifleur",
+            "Rolycoly",
+            "Sizzlipede"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Corvisquire",
+            "Gossifleur",
+            "Rolycoly",
+            "Sizzlipede"
+        ]
+    },
+    "Route 4": {
+        "location": "Route 4",
+        "sword_pokemon": [
+            "Skwovet",
+            "Wooloo",
+            "Chewtle",
+            "Yamper",
+            "Milcery"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Wooloo",
+            "Chewtle",
+            "Yamper",
+            "Milcery"
+        ]
+    },
+    "Route 5": {
+        "location": "Route 5",
+        "sword_pokemon": [
+            "Skwovet",
+            "Dottler",
+            "Eldegoss",
+            "Chewtle",
+            "Applin"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Dottler",
+            "Eldegoss",
+            "Chewtle",
+            "Applin"
+        ]
+    },
+    "Route 6": {
+        "location": "Route 6",
+        "sword_pokemon": [
+            "Greedent",
+            "Drednaw",
+            "Silicobra"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Drednaw",
+            "Silicobra"
+        ]
+    },
+    "Route 7": {
+        "location": "Route 7",
+        "sword_pokemon": [
+            "Greedent",
+            "Corviknight",
+            "Thievul",
+            "Toxel",
+            "Perrserker",
+            "Morpeko"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Corviknight",
+            "Thievul",
+            "Toxel",
+            "Perrserker",
+            "Morpeko"
+        ]
+    },
+    "Route 8": {
+        "location": "Route 8",
+        "sword_pokemon": [
+            "Sandaconda",
+            "Falinks",
+            "Snom"
+        ],
+        "shield_pokemon": [
+            "Sandaconda",
+            "Falinks",
+            "Snom"
+        ]
+    },
+    "Route 9": {
+        "location": "Route 9",
+        "sword_pokemon": [
+            "Greedent",
+            "Thievul",
+            "Cramorant",
+            "Clobbopus",
+            "Grapploct",
+            "Perrserker",
+            "Pincurchin",
+            "Morpeko"
+        ],
+        "shield_pokemon": [
+            "Greedent",
+            "Thievul",
+            "Cramorant",
+            "Clobbopus",
+            "Grapploct",
+            "Perrserker",
+            "Pincurchin",
+            "Morpeko"
+        ]
+    },
+    "Slumbering Weald": {
+        "location": "Slumbering Weald",
+        "sword_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Corviknight",
+            "Blipbug",
+            "Orbeetle"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Rookidee",
+            "Corviknight",
+            "Blipbug",
+            "Orbeetle"
+        ]
+    },
+    "South Lake Miloch": {
+        "location": "South Lake Miloch",
+        "sword_pokemon": [
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Arrokuda",
+            "Barraskewda",
+            "Runerigus"
+        ],
+        "shield_pokemon": [
+            "Blipbug",
+            "Dottler",
+            "Orbeetle",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Arrokuda",
+            "Barraskewda",
+            "Sinistea",
+            "Polteageist",
+            "Cursola",
+            "Runerigus"
+        ]
+    },
+    "Stony Wilderness": {
+        "location": "Stony Wilderness",
+        "sword_pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Dottler",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Yamper",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Flapple",
+            "Cramorant",
+            "Toxel",
+            "Sizzlipede",
+            "Centiskorch",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Obstagoon",
+            "Perrserker",
+            "Sirfetch'd",
+            "Mr. Rime",
+            "Runerigus",
+            "Falinks",
+            "Snom",
+            "Frosmoth",
+            "Stonjourner",
+            "Indeedee",
+            "Copperajah",
+            "Duraludon"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Greedent",
+            "Dottler",
+            "Nickit",
+            "Thievul",
+            "Gossifleur",
+            "Eldegoss",
+            "Wooloo",
+            "Dubwool",
+            "Yamper",
+            "Rolycoly",
+            "Carkol",
+            "Coalossal",
+            "Applin",
+            "Appletun",
+            "Cramorant",
+            "Toxel",
+            "Sizzlipede",
+            "Centiskorch",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Impidimp",
+            "Obstagoon",
+            "Perrserker",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus",
+            "Snom",
+            "Frosmoth",
+            "Eiscue",
+            "Indeedee",
+            "Copperajah",
+            "Duraludon"
+        ]
+    },
+    "Watchtower Ruins": {
+        "location": "Watchtower Ruins",
+        "sword_pokemon": [
+            "Skwovet",
+            "Corviknight",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Mr. Rime",
+            "Runerigus"
+        ],
+        "shield_pokemon": [
+            "Skwovet",
+            "Corviknight",
+            "Sinistea",
+            "Polteageist",
+            "Hatenna",
+            "Hattrem",
+            "Hatterene",
+            "Cursola",
+            "Mr. Rime",
+            "Runerigus"
+        ]
+    },
+    "West Lake Axewell": {
+        "location": "West Lake Axewell",
+        "sword_pokemon": [
+            "Nickit",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Arrokuda",
+            "Grapploct",
+            "Obstagoon"
+        ],
+        "shield_pokemon": [
+            "Nickit",
+            "Thievul",
+            "Chewtle",
+            "Drednaw",
+            "Arrokuda",
+            "Grapploct",
+            "Obstagoon"
+        ]
+    }
+}
