@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="app.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Test Json</title>
+</head>
+    <body>
+
+
+        <div id="legend" class ="CenterBox"></div>
+        <div id="typesViz" class = "CenterBox"></div>
+        <script>
+            var colors = {
+                "Bug": "lightgreen",
+                "Dark": "darkslateblue",
+                "Dragon": "mediumorchid",
+                "Electric": "moccasin",
+                "Fairy": "lightpink",
+                "Fighting": "crimson",
+                "Fire": "coral",
+                "Flying": "mediumaquamarine",
+                "Ghost": "mediumpurple",
+                "Grass": "springgreen",
+                "Ground": "peru",
+                "Ice": "powderblue",
+                "Normal": "lightgray",
+                "Poison": "purple",
+                "Psychic": "hotpink",
+                "Rock": "burlywood",
+                "Steel": "lightsteelblue",
+                "Water": "steelblue"
+            };
+            var dataStandard = getPlottableStandard("Fairy");
+            /*function updateStandardGraph(data){
+                clearGraph();
+                totals = data.map(d => d[d.type]);
+                locations = data.sort((a,b) => d3.descending(a[a.type], b[b.type])).map(d => d.location);
+                var w = 900;
+                var h = 400;
+                var margin = { 
+                    top: 50,
+                    bottom:100,
+                    left: 30,
+                    right: 20
+                    };
+                var width = w - margin.left - margin.right;
+                var height = h - margin.top - margin.bottom;
+
+                var x = d3.scaleBand()
+                        .domain(locations)
+                        .range([margin.left, width])
+                        .padding(0.1);
+                var y = d3.scaleLinear()
+                        .domain([0, d3.max(totals)])
+                        .range([height, margin.top]);
+                var yAxis = d3.axisLeft().scale(y);
+
+                var svg = d3.select("#typesViz").append("svg")
+                            .attr("id", "chart")
+                            .attr("width", w)
+                            .attr("height", h);
+
+                svg.append("g")
+                    .attr("class", "axis")
+                    .attr("transform", "translate("+ margin.left + ",0)")
+                    .call(yAxis);
+                
+                svg.selectAll("rect")
+                    .data(data)
+                    .enter()
+                        .append("rect")
+                        .attr("class", "bar")
+                        .attr("fill", (d,i) => colors[d.type])
+                        .on("mouseenter", function(){ d3.select(event.currentTarget)
+                                                .attr("fill", "Blue")})
+                        .on("mouseout", function(){ d3.select(event.currentTarget)
+                                                .transition("colorfade")
+                                                .duration(250)
+                                                .attr("fill", (d,i) => colors[d.type] )})
+                        .attr("x", (d,i) => x(d.location))
+                        .attr("width", x.bandwidth())
+                        .attr("y", height)
+                        .transition("bars")
+                        .delay( (d,i) => i*50)
+                        .duration(1000)
+                        .attr("y", (d,i) => y(d[d.type]))
+                        .attr("height", (d,i) => height-y(d[d.type]));
+
+                svg.selectAll("rect") 			
+                        .append("title")
+                        .text( d => d.type + "-Types at "+d.location+": " + d[d.type]);
+                
+                
+                        
+                svg.selectAll(".bar-label")
+                    .data(data)
+                    .enter()
+                    .append("text")
+                    .classed("bar-label", true)
+                    .attr("transform", (d,i) => "translate(" + (x(d.location) + x.bandwidth()/2 - 8 ) + "," + (height+15) + ")" + " rotate(45)" )
+                    .attr("text-anchor","left")
+                    .text(d => d.location);
+                svg        
+                };
+            //updateStandardGraph(dataStandard);
+            function clearGraph(){
+                let svg = d3.select("#typesViz").selectAll("*");
+                svg.remove()
+            };
+            */
+
+            var typesArray = ["Water","Steel", "Bug", "Grass", "Electric", "Fire", "Fighting", "Ghost", "Psychic"];
+            var dataStacked = getPlottableStacked(typesArray);
+            
+            function updateStackedGraph(dataStacked){
+                data = dataStacked.sort((a,b) => b.total - a.total);
+                series = d3.stack().keys(data.columns.slice(1))(data).map(d => (d.forEach(v => v.key = d.key), d));
+                console.log(series);
+                margin = {top: 30, right: 10, bottom: 0, left: 120};
+                width = 550 - margin.left - margin.right;
+                height = data.length * 18 + margin.top + margin.bottom;
+                /*color = d3.scaleOrdinal()
+                        .domain(typesArray)
+                        .range(colors[typesArray])*/
+
+                x = d3.scaleLinear()
+                    .domain([0, d3.max(series, d => d3.max(d, d => d[1]))])
+                    .range([margin.left, width - margin.right]);
+                
+                y = d3.scaleBand()
+                    .domain(data.map(d => d.location))
+                    .range([margin.top, height - margin.bottom])
+                    .padding(0.1);
+
+                xAxis = g => g
+                    .attr("transform", `translate(0,${margin.top})`)
+                    .call(d3.axisTop(x).ticks(width / 100, "s"))
+                    .call(g => g.selectAll(".domain").remove());
+                
+                yAxis = g => g
+                    .attr("transform", `translate(${margin.left},0)`)
+                    .call(d3.axisLeft(y).tickSizeOuter(0))
+                    .call(g => g.selectAll(".domain").remove());
+                    
+                    const svg = d3.select("#typesViz").append("svg")
+                                .attr("viewBox", [0, 0, width, height]);
+
+                    svg.append("g")
+                        .selectAll("g")
+                        .data(series)
+                        .join("g")
+                        .attr("fill", d => colors[d.key])
+                        .selectAll("rect")
+                        .data(d => d)
+                        .join("rect")
+                        .attr("x", d => x(d[0]))
+                        .attr("y", (d, i) => y(d.data.location))
+                        .attr("width", 0)
+                        .transition()
+                        .duration(1000)
+                        .attr("width", d => x(d[1]) - x(d[0]))
+                        .attr("height", y.bandwidth());
+
+                    svg.selectAll("rect")
+                        .append("title")
+                        .text(d => `${d.data.location} ${d.key}`);
+
+                    svg.append("g")
+                        .call(xAxis);
+
+                    svg.append("g")
+                        .call(yAxis);
+
+            };
+                updateStackedGraph(dataStacked);
+            
+            //Basically sourced from https://observablehq.com/@d3/color-legend#legend
+            function stackedLegend(typesArray){
+                color = d3.scaleOrdinal()
+                        .domain(typesArray)
+                        .range(typesArray.map( d => colors[d]));
+
+                title = 'Types by location in Pokemon SwSh';
+                tickSize = 6;
+                width = 480;
+                height = 50;
+                ticks = width /64;
+                margin = {top: 16, right: 180, bottom: 16, left: 10};
+                tickValues = typesArray;
+                const svg = d3.select("#legend").append("svg")
+                            .classed("svg-centered", true)
+                            .attr("preserveAspectRatio", "xMidYMid meet")
+                            .attr("viewbox", [0, 0, width, height]);
+                
+                let tickAdjust = g => g.selectAll(".tick line").attr("y1", margin.top + margin.bottom - height);
+
+                let x = d3.scaleBand()
+                        .domain(color.domain())
+                        .rangeRound([margin.left, width-margin.right]);
+                
+                svg.append("g")
+                    .selectAll("rect")
+                    .data(color.domain())
+                    .join("rect")
+                    .attr("x", x)
+                    .attr("y", margin.top)
+                    .attr("width", Math.max(0, x.bandwidth() - 1))
+                    .attr("height", height - margin.top - margin.bottom)
+                    .attr("fill", color);
+
+                tickAdjust = () => {};
+
+                svg.append("g")
+                    .attr("transform", `translate(0,${height - margin.bottom})`)
+                    .call(d3.axisBottom(x)
+                        .ticks(ticks, typeof tickFormat === "string" ? tickFormat : undefined)
+                        .tickFormat(typeof tickFormat === "function" ? tickFormat : undefined)
+                        .tickSize(tickSize)
+                        .tickValues(tickValues))
+                    .call(tickAdjust)
+                    .call(g => g.select(".domain").remove())
+                    .call(g => g.append("text")
+                        .attr("x", margin.left)
+                        .attr("y", margin.top + margin.bottom - height - 6)
+                        .attr("fill", "currentColor")
+                        .attr("text-anchor", "start")
+                        .attr("font-weight", "bold")
+                    .text(title));
+                }
+                stackedLegend(typesArray);
+
+        </script>
+    </body>
+</html>
