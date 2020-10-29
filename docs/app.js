@@ -1,6 +1,5 @@
-const GalarTypes = 'https://gist.githubusercontent.com/KeagenT/bb1ff135bbb08b16407cddb4f1b9b189/raw/1bac6c628bb715861c3aab3c227c4ab2959b1ed2/Types.json';
-const GalarLocations = 'https://gist.githubusercontent.com/KeagenT/bb1ff135bbb08b16407cddb4f1b9b189/raw/1bac6c628bb715861c3aab3c227c4ab2959b1ed2/Locations.json';
-const GalarDex = 'https://gist.githubusercontent.com/KeagenT/bb1ff135bbb08b16407cddb4f1b9b189/raw/1bac6c628bb715861c3aab3c227c4ab2959b1ed2/Pokedex.json';
+const GalarTypes = './GalarTypes.json';
+const GalarLocations = './GalarLocations.json';
 
 //let dexJSON;
 let locationsJSON;
@@ -9,6 +8,7 @@ fetch(GalarTypes)
     .then(response => response.json())
     .then(data => 
         typesJSON = data);
+        
 fetch(GalarLocations)
     .then(response => response.json())
     .then(data =>
