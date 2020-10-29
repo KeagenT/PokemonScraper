@@ -34,89 +34,12 @@
                 "Steel": "lightsteelblue",
                 "Water": "steelblue"
             };
-            var dataStandard = getPlottableStandard("Fairy");
-            /*function updateStandardGraph(data){
-                clearGraph();
-                totals = data.map(d => d[d.type]);
-                locations = data.sort((a,b) => d3.descending(a[a.type], b[b.type])).map(d => d.location);
-                var w = 900;
-                var h = 400;
-                var margin = { 
-                    top: 50,
-                    bottom:100,
-                    left: 30,
-                    right: 20
-                    };
-                var width = w - margin.left - margin.right;
-                var height = h - margin.top - margin.bottom;
 
-                var x = d3.scaleBand()
-                        .domain(locations)
-                        .range([margin.left, width])
-                        .padding(0.1);
-                var y = d3.scaleLinear()
-                        .domain([0, d3.max(totals)])
-                        .range([height, margin.top]);
-                var yAxis = d3.axisLeft().scale(y);
-
-                var svg = d3.select("#typesViz").append("svg")
-                            .attr("id", "chart")
-                            .attr("width", w)
-                            .attr("height", h);
-
-                svg.append("g")
-                    .attr("class", "axis")
-                    .attr("transform", "translate("+ margin.left + ",0)")
-                    .call(yAxis);
-                
-                svg.selectAll("rect")
-                    .data(data)
-                    .enter()
-                        .append("rect")
-                        .attr("class", "bar")
-                        .attr("fill", (d,i) => colors[d.type])
-                        .on("mouseenter", function(){ d3.select(event.currentTarget)
-                                                .attr("fill", "Blue")})
-                        .on("mouseout", function(){ d3.select(event.currentTarget)
-                                                .transition("colorfade")
-                                                .duration(250)
-                                                .attr("fill", (d,i) => colors[d.type] )})
-                        .attr("x", (d,i) => x(d.location))
-                        .attr("width", x.bandwidth())
-                        .attr("y", height)
-                        .transition("bars")
-                        .delay( (d,i) => i*50)
-                        .duration(1000)
-                        .attr("y", (d,i) => y(d[d.type]))
-                        .attr("height", (d,i) => height-y(d[d.type]));
-
-                svg.selectAll("rect") 			
-                        .append("title")
-                        .text( d => d.type + "-Types at "+d.location+": " + d[d.type]);
-                
-                
-                        
-                svg.selectAll(".bar-label")
-                    .data(data)
-                    .enter()
-                    .append("text")
-                    .classed("bar-label", true)
-                    .attr("transform", (d,i) => "translate(" + (x(d.location) + x.bandwidth()/2 - 8 ) + "," + (height+15) + ")" + " rotate(45)" )
-                    .attr("text-anchor","left")
-                    .text(d => d.location);
-                svg        
-                };
-            //updateStandardGraph(dataStandard);
-            function clearGraph(){
-                let svg = d3.select("#typesViz").selectAll("*");
-                svg.remove()
-            };
-            */
-
-            var typesArray = ["Water","Steel", "Bug", "Grass", "Electric", "Fire", "Fighting", "Ghost", "Psychic"];
-            var dataStacked = getPlottableStacked(typesArray);
+            //var typesArray = ["Water","Steel", "Bug", "Grass", "Electric", "Fire", "Fighting", "Ghost", "Psychic"];
+            //var dataStacked = getPlottableStacked(typesArray);
             
-            function updateStackedGraph(dataStacked){
+            async function updateStackedGraph(typesArray){
+                let dataStacked = await getD3Data(typesArray);
                 data = dataStacked.sort((a,b) => b.total - a.total);
                 series = d3.stack().keys(data.columns.slice(1))(data).map(d => (d.forEach(v => v.key = d.key), d));
                 console.log(series);
@@ -176,7 +99,7 @@
                         .call(yAxis);
 
             };
-                updateStackedGraph(dataStacked);
+            updateStackedGraph(typesArray);
             
             //Basically sourced from https://observablehq.com/@d3/color-legend#legend
             function stackedLegend(typesArray){
@@ -230,7 +153,7 @@
                         .attr("text-anchor", "start")
                         .attr("font-weight", "bold")
                     .text(title));
-                }
+                };
                 stackedLegend(typesArray);
 
         </script>
