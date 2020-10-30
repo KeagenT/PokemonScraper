@@ -1,16 +1,15 @@
 # Pokemon Scraper
   A dynamic scraper for serebii.net's galarian pokedex. 
-  Use it to build your own educational Databases or
-  for proof of concepts.
-  Comes with a pre-scraped JSON file with all new Galarian Pokemon. 
-  The scraper has been tested for all Galar exclusive mons excluding
-  . It is possible to scrape mons inexclusive to galar, as the "types" field accounts for regional forms. 
+  Use it to for whatever educational projects you'd like.
+  Includes a pre-scraped GalarDex file with all new Galarian Pokemon. 
+  The scraper has been tested for all Galar exclusive pokemon excluding
+  expansion pokemon. It is possible to scrape mons inexclusive to galar, as the "types" field accounts for regional forms. 
 
 # Using Scrapy
   This project requires Scrapy and Python 3.X to run.
   Refer to the [Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html) 
   tutorial for more information.
-  Navigate to this project's directory with the CL and 
+  Navigate to this project's directory with the CLI and 
   run the following command:
 ```
 scrapy crawl pokespider -o GalarDex.json -t json
@@ -50,5 +49,5 @@ scrapy crawl pokespider -o GalarDex.json -t json
 * Enable scraping for all gen 8 pokemon rather than Galar Exclusives
 
 # Acknowledgements
-All Scraped content is © Copyright of Serebii.net 1999-2020
-Pokémon and All Respective Names are Trademark & © of Nintendo 1996-2020
+  All Scraped content is © Copyright of Serebii.net 1999-2020.
+  Pokémon and All Respective Names are Trademark & © of Nintendo 1996-2020.
