@@ -5,13 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="app.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <title>Test Json</title>
+    <script src="https://use.fontawesome.com/7086f4b260.js"></script>
+    <title>Serebii Data Visualization</title>
 </head>
     <body>
 
 
-        <div id="legend" class ="CenterBox"></div>
+        <div id="legend" class ="CenterBox flex-container"></div>
+        <a class = "Github_Link flex-container" href="https://github.com/KeagenT/PokemonScraper">
+            <i class="fa fa-github-alt flex-child" aria-hidden="true"></i>
+            <p class="flex-child">View Source on Github</p>
+        </a>
         <div id="typesViz" class = "CenterBox"></div>
         <script>
             var colors = {
@@ -112,7 +118,7 @@
                 width = 480;
                 height = 50;
                 ticks = width /64;
-                margin = {top: 16, right: 180, bottom: 16, left: 10};
+                margin = {top: 20, right: 180, bottom: 16, left: 10};
                 tickValues = typesArray;
                 const svg = d3.select("#legend").append("svg")
                             .classed("svg-centered", true)
@@ -147,11 +153,12 @@
                     .call(tickAdjust)
                     .call(g => g.select(".domain").remove())
                     .call(g => g.append("text")
-                        .attr("x", margin.left)
+                        .attr("x", "50%")
                         .attr("y", margin.top + margin.bottom - height - 6)
                         .attr("fill", "currentColor")
-                        .attr("text-anchor", "start")
+                        .attr("text-anchor", "middle")
                         .attr("font-weight", "bold")
+                        .attr("font-size", "1.25em")
                     .text(title));
                 };
                 stackedLegend(typesArray);

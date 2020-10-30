@@ -1,7 +1,35 @@
 body {
     background-color: lightblue;
+    font-family: 'Roboto', sans-serif;
 }
-div {
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+a.Github_Link {
+    max-height: 1em;
+    height: 100%;
+    max-width: 600px;
+    width: 100%;
+    color: white;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: 700;
+}
+
+a i {
+    margin-right: 1em;
+}
+
+
+div.CenterBox{
     margin-bottom: 1em;
     background-color: white;
 }
@@ -18,9 +46,13 @@ div {
     box-shadow: .2em .2em .5em .2em rgba(0,0,0,0.12);
 
  }
+ div#legend {
+     
+ }
  .svg-centered {
      display: inline-block;
      max-width: 300px;
+     margin: 0 auto;
      width: 80%;
      max-height: 70px;
      height: 30%;
