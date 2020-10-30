@@ -1,14 +1,25 @@
 # Pokemon Scraper
-A simple scraper for serebii.net's galarian pokedex. Use it to build your own PokemonDB.
-For fun Data analytics projects.
-Comes with a pre-scraped JSON file with all new Galarian Pokemon. The scraper has been tested
-for all Galar exclusive mons. It is possible to scrape mons inexclusive to galar, as the "types" field accounts for regional forms. 
+  A dynamic scraper for serebii.net's galarian pokedex. 
+  Use it to build your own educational Databases or
+  for proof of concepts.
+  Comes with a pre-scraped JSON file with all new Galarian Pokemon. 
+  The scraper has been tested for all Galar exclusive mons excluding
+  . It is possible to scrape mons inexclusive to galar, as the "types" field accounts for regional forms. 
 
 # Using Scrapy
-This project requires Scrapy and Python 3.X to run.
-Refer to the [Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html) tutorial for running a crawler
-By default this project is configured to the "pokemonscraping" directory and a spider named pokecrawler.
-Output is configured to give the following (sample) JSON for each page scraped.
+  This project requires Scrapy and Python 3.X to run.
+  Refer to the [Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html) 
+  tutorial for more information.
+  Navigate to this project's directory with the CL and 
+  run the following command:
+```
+scrapy crawl pokespider -o GalarDex.json -t json
+```
+  By default this project is configured to the "pokemonscraping" 
+  directory and a spider named pokespider.
+  Output is configured to give the 
+  following (sample) JSON for each page scraped.
+
 
 ```
   {
@@ -25,5 +36,19 @@ Output is configured to give the following (sample) JSON for each page scraped.
     "moves": ["Array of all moves"]
    }
 ```
+# Generated Data and Visualizations
+  This folder contains python code to transform the generated GalarDex.json into json files
+  organized by: Type, Location, and Moves.
+  Run these scripts after scraping updated content (Looking at you crown tundra etc.)
+  [Here's](https://keagent.github.io/PokemonScraper/) a sample visualization made with D3.js. 
+  Feel free to use any of this project's scraped data with attribution. 
+
 # Future plans
-No <3
+* Allow User input for the sample data visualization.
+* Create a singular class to transform scraped data rather than current monolith.
+* Test scraping for expansion added content
+* Enable scraping for all gen 8 pokemon rather than Galar Exclusives
+
+# Acknowledgements
+All Scraped content is © Copyright of Serebii.net 1999-2020
+Pokémon and All Respective Names are Trademark & © of Nintendo 1996-2020
