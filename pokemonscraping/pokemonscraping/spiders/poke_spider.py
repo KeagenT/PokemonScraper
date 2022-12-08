@@ -82,8 +82,8 @@ class PokeSpider(Spider):
 
 
 
-        scarletLocations = getLocations("foox")
-        violetLocations = getLocations("fooy")
+        scarletLocations = getLocations("scarlet")
+        violetLocations = getLocations("violet")
         typesDict = buildTypesDict()
         DexTables = Selector(response).xpath('//table[@class="dextable"]')
         AllMoves = Selector(response).xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href,"attackdex")]//text()').extract()
