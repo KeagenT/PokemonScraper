@@ -87,12 +87,16 @@ class PokeSpider(Spider):
         typesDict = buildTypesDict()
         DexTables = Selector(response).xpath('//table[@class="dextable"]')
         AllMoves = Selector(response).xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href,"attackdex")]//text()').extract()
+        EggGroups = Selector(response).xpath('//td[@align="center"]//table[@class="dexitem"]//a/text()').extract()
+        EggMoves = Selector(response).xpath('//tr[*//a[@name="eggmoves"]]/following-sibling::tr//td[@class="fooinfo"]//a/text()').extract()
         AbilitiesList = response.xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href, "abilitydex")]//text()').extract()
         item = PokemonscrapingItem()
         item['name'] = response.xpath('//table[@class="dextable"][2]//td[@class="fooinfo"]/text()').extract()[0]
         item['number'] = response.xpath('//tr[td[*[contains(text(), "National")]]]//td/text()').extract()[1].replace("#","")
         item['weight'] = weightParse(response.xpath('//table[@class="dextable"]//td[contains(text(), "lbs")]/text()'))
         item['types'] = typesDict
+        item['egg_group'] = EggGroups
+        item['egg_moves'] = EggMoves
         item['locations_scarlet'] = scarletLocations
         item['locations_violet'] = violetLocations
         item['abilities'] = []

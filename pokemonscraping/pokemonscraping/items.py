@@ -15,6 +15,8 @@ class PokemonscrapingItem(scrapy.Item):
     weight = Field()
     locations_scarlet = Field()
     locations_violet = Field()
+    egg_moves = Field()
+    egg_group = Field()
     types = Field()
     abilities = Field()
     moves = Field()
