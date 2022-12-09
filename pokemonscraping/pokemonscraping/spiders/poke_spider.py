@@ -8,7 +8,7 @@ import re
 class PokeSpider(Spider):
     name = "pokespider"
     allowed_domains = ["serebii.net"]
-    start_urls = ["https://serebii.net/pokedex-swsh/grookey/"]
+    start_urls = ["https://www.serebii.net/pokedex-sv/sprigatito/"]
 
 
     def parse(self, response):
@@ -65,12 +65,12 @@ class PokeSpider(Spider):
                         typesDict[alternateForm] = getTypesFromXpath(currentFormXpath, 1)
                 return typesDict
         
-        #swSh should be either foox for sword locations or fooy for shield locations
-        def getLocations(swSh):
+        #scaVio should be either foox for sword locations or fooy for shield locations
+        def getLocations(scaVio):
             locations = []
-            SwordShieldXpath = response.xpath('//table[@class="dextable"]//tr[td[@class="fooevo"][h2[contains(text(),"Location")]]]/following-sibling::tr[td[@class="{}"]][1]//td[@class = "fooinfo"]'.format(swSh))
-            linkedLocations = SwordShieldXpath.xpath('.//a/text()').extract()
-            unlinkedLocations = SwordShieldXpath.xpath('./text()').extract()
+            ScarletVioletXpath = response.xpath('//table[@class="dextable"]//tr[td[@class="fooevo"][h2[contains(text(),"Location")]]]/following-sibling::tr[td[@class="{}"]][1]//td[@class = "fooinfo"]'.format(scaVio))
+            linkedLocations = ScarletVioletXpath.xpath('.//a/text()').extract()
+            unlinkedLocations = ScarletVioletXpath.xpath('./text()').extract()
             #If there's no links inside the xpath
             if not linkedLocations:   
                    locations = locations + unlinkedLocations
@@ -82,19 +82,23 @@ class PokeSpider(Spider):
 
 
 
-        swordLocations = getLocations("foox")
-        shieldLocations = getLocations("fooy")
+        scarletLocations = getLocations("scarlet")
+        violetLocations = getLocations("violet")
         typesDict = buildTypesDict()
         DexTables = Selector(response).xpath('//table[@class="dextable"]')
         AllMoves = Selector(response).xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href,"attackdex")]//text()').extract()
+        EggGroups = Selector(response).xpath('//td[@align="center"]//table[@class="dexitem"]//a/text()').extract()
+        EggMoves = Selector(response).xpath('//tr[*//a[@name="eggmoves"]]/following-sibling::tr//td[@class="fooinfo"]//a/text()').extract()
         AbilitiesList = response.xpath('//table[@class="dextable"]//td[@class="fooinfo"]//a[contains(@href, "abilitydex")]//text()').extract()
         item = PokemonscrapingItem()
         item['name'] = response.xpath('//table[@class="dextable"][2]//td[@class="fooinfo"]/text()').extract()[0]
         item['number'] = response.xpath('//tr[td[*[contains(text(), "National")]]]//td/text()').extract()[1].replace("#","")
         item['weight'] = weightParse(response.xpath('//table[@class="dextable"]//td[contains(text(), "lbs")]/text()'))
         item['types'] = typesDict
-        item['locations_sword'] = swordLocations
-        item['locations_shield'] = shieldLocations
+        item['egg_group'] = EggGroups
+        item['egg_moves'] = EggMoves
+        item['locations_scarlet'] = scarletLocations
+        item['locations_violet'] = violetLocations
         item['abilities'] = []
         item['moves'] = []
         for move in AllMoves:
