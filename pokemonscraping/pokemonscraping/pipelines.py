@@ -10,7 +10,7 @@ import json
 class JsonPipeline(object):
 
     def open_spider(self, spider):
-        self.file = open('PaldeanDex.json', 'w')
+        self.file = open('WholePaldeanDex.json', 'w')
         self.file.write("[\n")
 
     def close_spider(self, spider):
