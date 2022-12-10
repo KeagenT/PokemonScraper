@@ -8,7 +8,9 @@ import re
 class PokeSpider(Spider):
     name = "pokespider"
     allowed_domains = ["serebii.net"]
-    start_urls = ["https://www.serebii.net/pokedex-sv/sprigatito/"]
+    current_link_index = 0
+    start_urls = ["https://www.serebii.net/pokedex-sv/charmander/"]
+
 
 
     def parse(self, response):
@@ -79,6 +81,15 @@ class PokeSpider(Spider):
                 locations = locations + linkedLocations
                 locations = list(set(locations))
                 return locations
+        
+        #def getCrawlableLink(number):
+        #    return f"https://www.serebii.net/{paldean_links[number]}"
+        
+        #def getNextLink():
+        #    if self.current_link_index + 1 == len(paldean_links):
+        #        return None
+        #    self.current_link_index += 1
+        #    return getCrawlableLink(self.current_link_index)
 
 
 
@@ -109,4 +120,3 @@ class PokeSpider(Spider):
         followLink = response.xpath('//table[contains(@width,"100%")]//td[contains(@align,"center")]//a[contains(@href,"pokedex")]')[1].css('a::attr(href)').get()
         if followLink is not None:
             yield response.follow(followLink, callback=self.parse)
-
